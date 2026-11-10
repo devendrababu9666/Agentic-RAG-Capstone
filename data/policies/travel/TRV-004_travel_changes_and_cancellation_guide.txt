@@ -1,0 +1,56 @@
+TRAVEL CHANGES AND CANCELLATION GUIDE
+===================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: TRV-004
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Travel Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain how to handle changed dates, cancelled trips, and related evidence without promising refunds or reimbursement.
+
+2. SCOPE AND APPLICABILITY
+Proposed or booked domestic business travel by permanent employees and interns. Personal holidays, international travel, commuting, and relocation require separate guidance.
+
+3. POLICY GUIDANCE
+
+3.1 REPORT THE CHANGE
+Contact Travel Operations against the original trip reference when dates, destination, business purpose, or traveller details change. Describe what changed and whether booking has already been confirmed. A proposed trip with no booking needs a different follow-up from an issued ticket.
+
+Ask whether updated approvals are required before accepting a replacement itinerary. Involve the manager, and People Operations where an intern's required approval is affected. Do not assume an existing approval covers additional destinations or personal days.
+
+3.2 CANCELLATION
+Tell Travel Operations that cancellation is requested and retain its response. A cancellation request is not a confirmed cancellation. Keep the actual cancellation acknowledgement and any supplier or booking records supplied through the approved channel.
+
+Do not promise a refund, a fee waiver, or immediate reversal. The collection contains no supplier-specific cancellation terms, guaranteed refund amount, or refund processing period. Travel Operations confirms the booking outcome, and Finance reviews how resulting costs or credits should be recorded.
+
+3.3 EVIDENCE AND CLAIMS
+Retain the original approval, booking confirmation, change or cancellation acknowledgement, and itemized charges where available. Link the records to the same trip reference. Do not submit a replacement receipt or describe an estimated charge as an amount already paid.
+
+If a refund is pending, ask Finance how to record the claim accurately. If a refund arrives after a claim was submitted, update Finance against the existing claim. Do not silently keep both the original reimbursed amount and a later refund without reporting the change.
+
+3.4 ONBOARDING DEPENDENCIES
+Tell the manager if the revised trip affects orientation, mandatory learning, or equipment collection. People Operations confirms revised session arrangements. IT and Workplace Services separately confirm equipment readiness and office entry. Changing a travel booking does not update those systems automatically.
+
+If the new trip date precedes equipment readiness, ask the manager and IT to review options. A booking change does not create approval for a personal device or guarantee urgent equipment delivery.
+
+3.5 UNANSWERED DEADLINE QUESTIONS
+This guide does not establish a claim deadline for a cancelled trip that never began. Ask Finance and Travel Operations for guidance on that case. For completed domestic trips, consult both core policies and flag their unresolved deadline conflict rather than selecting a deadline from whichever document appears first.
+
+3.6 VALID MOCK EXAMPLES
+- Change case TRV-CHG-2026-09061: booked trip dates changed from 17-18 September to 18-19 September 2026. Travel Operations must confirm whether rebooking and updated manager approval are required.
+- Cancellation case TRV-CAN-2026-09044: cancellation requested on 16 September 2026, supplier acknowledgement pending. A cancellation request is not a confirmed cancellation or refund.
+- Refund case TRV-REF-2026-09044: hotel refund received after claim FIN-CLM-2026-09110 was submitted. Valid action is to notify Finance against the existing claim with refund evidence.
+
+4. SUPPORT AND ESCALATION
+Travel Operations owns booking changes and cancellation confirmation. Finance owns expense treatment. The manager and People Operations coordinate approval and onboarding implications.
+
+5. RELATED DOCUMENTS
+- Domestic Business Travel Policy
+- Travel Approval and Booking Guide
+- Expense Corrections Refunds and Duplicate Claims Guide
+- Cross-Team Escalation and Handover Guide

@@ -1,0 +1,69 @@
+EMPLOYEE ONBOARDING GUIDE
+=========================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: ONB-001
+Version: 1.0
+Effective from: 1 September 2026
+Owner: People Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+This is fictional classroom material for the Employee Policy and Onboarding Navigator capstone. It is not an actual company's policy.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns in Bengaluru and Pune.
+
+3. POLICY GUIDANCE
+
+3.1 BEFORE JOINING
+- Confirm your joining date, assigned office, work arrangement, and reporting manager using your offer or joining communication. If any of these details are missing, ask People Operations to confirm them.
+- Complete the joining forms in the employee portal after receiving an invitation. Submit identity documents only through the approved onboarding portal, never through a chatbot or ordinary chat message.
+- Permanent employees and interns must both complete the joining forms and confidentiality acknowledgement.
+
+3.2 EQUIPMENT PREPARATION
+- For an approved remote start, submit an equipment request at least five working days before the joining date. Follow the Equipment Request and Support Policy for the details to include.
+- If the joining date is less than five working days away, contact IT Support and your manager. Submitting a request does not guarantee delivery before joining.
+
+3.3 FIRST DAY
+- Attend the welcome session listed in the joining invitation. Remote employees attend online; office-based employees follow the entry instructions for their assigned location.
+- Confirm your reporting manager and team contact. If you have not received account activation instructions, contact IT Support. Do not ask another employee to share credentials.
+
+3.4 FIRST WEEK
+- Complete information-security awareness and the employee conduct acknowledgement within five working days of joining.
+- Permanent employees also attend the benefits introduction. Interns attend the internship orientation instead; this guide does not establish benefits eligibility for interns.
+- Your manager confirms any role-specific training and its deadline.
+
+3.5 FOLLOW-UP AND COMPLETION
+- If you have submitted an equipment request, check its acknowledgement and contact IT Support with the request reference if a delivery update is needed.
+- If equipment has arrived but account activation has not, contact IT Support for activation guidance before attempting work.
+- A suggested task is not evidence that the employee has completed it. Completion must be confirmed by the employee or an authorized record.
+
+3.6 UNCOVERED QUESTIONS
+- This guide does not specify salaries, leave allowances, probation terms, or relocation reimbursements. People Operations handles questions about these topics.
+
+3.7 PLANNING THE ONBOARDING SEQUENCE
+Confirm the joining record and work arrangement before planning equipment fulfilment. Track joining forms, equipment requests, account activation, office entry, and mandatory learning as separate steps. Completing one does not establish that the others are complete. Use the detailed guides for the particular step that remains blocked.
+
+For example, a remote permanent employee whose laptop has arrived but whose activation instructions are missing should contact IT about activation and tell the manager if learning is blocked. The employee should not place another kit request or assume personal-device use is allowed.
+
+3.8 CHANGES AND OPEN QUESTIONS
+If the joining date changes, obtain confirmation from People Operations and coordinate affected equipment, office, and travel arrangements with their owners. A change in the joining record does not automatically amend other requests. If the employee category is unclear, confirm it before selecting benefits introduction or internship orientation.
+
+3.9 VALID MOCK EXAMPLES
+- Employee profile NSL-P-24017: permanent employee Asha Menon, joining on 14 September 2026, assigned to Bengaluru, approved hybrid arrangement, manager Rohan Iyer, joining reference JOIN-2026-09-014-BLR. Forms are submitted, equipment request IT-EQP-2026-09102 is acknowledged, account activation is pending.
+- Employee profile NSL-I-24018: intern Kabir Shah, joining on 21 September 2026, assigned to Pune, approved office-first arrangement, manager Meera Nair, joining reference JOIN-2026-09-021-PUN. People Operations must confirm verification before travel, equipment, or orientation completion is treated as complete.
+- Valid onboarding status values for practice data are not_started, draft_saved, submitted, awaiting_owner_review, blocked, employee_confirmed_complete, and owner_confirmed_complete. Use these values to avoid confusing an employee statement with an authorized record.
+
+4. SUPPORT AND ESCALATION
+People Operations handles joining and orientation questions. Contact IT Support for equipment or activation issues and the reporting manager for role-specific training.
+
+5. RELATED DOCUMENTS
+- Prejoining Forms and Verification Guide
+- First-Week Learning and Orientation Guide
+- Manager and Buddy Onboarding Handover Guide
+- Equipment Request and Support Policy
+- Workplace and Remote-Work Guide
+- Employee Support Directory

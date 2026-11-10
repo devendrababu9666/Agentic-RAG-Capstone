@@ -1,0 +1,72 @@
+EMPLOYEE SUPPORT DIRECTORY
+==========================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: SUP-001
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Employee Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+This fictional directory identifies the team to consult. No real contact addresses, telephone numbers, or external systems are included. A referral is a recommendation to contact a team, not evidence that the team has been notified.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns in Bengaluru and Pune.
+
+3. POLICY GUIDANCE
+
+3.1 PEOPLE OPERATIONS
+- Contact for joining-date confirmation, joining forms, employee-category questions, orientation, and onboarding information missing from the supplied guidance.
+- Questions about leave, compensation, benefits eligibility, probation, and relocation require People Operations guidance. The supplied documents do not establish the answers to those questions.
+
+3.2 REPORTING MANAGER
+- Contact for work-arrangement confirmation, role-specific training, business-travel purpose and approval, and coordination when travel overlaps onboarding.
+- The manager can review requests but an employee's stated preference is not approval.
+
+3.3 IT SUPPORT
+- Contact for equipment request status, missing or damaged equipment, account activation, approved software, and device setup.
+- Provide the relevant request reference through the internal IT service portal. Do not provide passwords or one-time codes.
+
+3.4 WORKPLACE SERVICES
+- Contact for location-specific office entry, visitor registration, access badges, and first-day arrival questions.
+- Specify the office location when requesting entry guidance because Bengaluru and Pune have different processes.
+
+3.5 TRAVEL OPERATIONS
+- Contact for domestic business-travel arrangements, booking options after approval, changes, cancellations, and travel guidance not covered in the supplied policy.
+- International travel is not covered by the supplied domestic policy and needs separate guidance.
+
+3.6 FINANCE OPERATIONS
+- Contact for expense evidence, missing receipts, claim review, and existing claim status. Finance and Travel Operations jointly clarify conflicting travel-expense guidance.
+
+3.7 MISSING AND CONFLICTING INFORMATION
+- When guidance is absent, request help from the responsible team rather than assuming a rule or amount.
+- When two current documents disagree, identify both passages and ask the responsible owners to resolve the conflict. No general document-precedence rule is established by this directory.
+
+3.8 CONTACT ROUTES AND REQUEST HISTORY
+Use the established internal portal or the support route supplied in the joining communication. This directory contains no real support email addresses, telephone numbers, or public reset links. If the employee cannot use the portal, ask the relevant owner or People Operations to confirm the available support route rather than inventing one.
+
+Keep the existing acknowledgement and give a concise description of what remains blocked. A referral recommendation is not a submitted ticket, and a submitted ticket is not a completed task. No general response-time guarantee or automatic escalation deadline is established by this collection.
+
+3.9 CROSS-TEAM QUESTIONS
+Route each unresolved part to its owner. For a new joiner's business trip with delayed equipment, the manager coordinates timing, IT confirms device options, People Operations coordinates orientation, and Travel Operations handles arrangements. Employee Services can identify a lead owner if needed. Share only necessary context and avoid copying private records into a general handover.
+
+3.10 VALID MOCK EXAMPLES
+- Routing case SUP-RTE-2026-09001: employee cannot get in. Valid clarification asks whether the issue is office entry, account activation, or application access before choosing Workplace Services or IT Support.
+- Routing case SUP-RTE-2026-09002: employee asks about relocation reimbursement for joining travel. Valid owner is People Operations because relocation is outside the domestic business-travel policy and no reimbursement entitlement is supplied.
+- Routing case SUP-RTE-2026-09003: employee asks for the exact Pune hotel allowance. Valid response identifies missing guidance and routes to Travel Operations or Finance, without inventing an amount.
+
+4. SUPPORT AND ESCALATION
+Use the responsible team listed above. If ownership is unclear, ask Employee Services to identify the appropriate team. A referral does not mean that a team has been contacted.
+
+5. RELATED DOCUMENTS
+- Support Request Intake and Tracking Guide
+- Cross-Team Escalation and Handover Guide
+- Secure Support Communication Guide
+- Employee Onboarding Guide
+- Equipment Request and Support Policy
+- Workplace and Remote-Work Guide
+- Domestic Business Travel Policy
+- Finance Expense Submission Guide

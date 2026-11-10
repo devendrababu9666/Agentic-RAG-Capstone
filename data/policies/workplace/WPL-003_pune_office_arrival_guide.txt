@@ -1,0 +1,56 @@
+PUNE OFFICE ARRIVAL GUIDE
+========================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: WPL-003
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Workplace Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Describe Pune visitor registration and first-day entry, including visits for equipment collection.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns making a new-joiner visit to the Pune office. The actual visit location determines the entry procedure. These instructions do not replace Bengaluru's separate arrival process.
+
+3. POLICY GUIDANCE
+
+3.1 REGISTRATION BEFORE ARRIVAL
+Ask the reporting manager to arrange visitor registration by the previous working day. Confirm the intended visit date and business purpose with the manager. Provide any identity or contact details requested for registration only through the designated secure route.
+
+The employee's offer, joining invitation, equipment request, and visitor registration are separate records. Possessing one does not prove that the others are complete. If registration is missing, contact Workplace Services and the manager before travelling to the office.
+
+3.2 ARRIVAL TIME AND VERIFICATION
+Report to reception at 10:00 AM on the first scheduled office day unless the joining invitation states a different time. Follow the identity-verification instructions in the secure joining communication. Entry remains subject to registration and identity verification.
+
+A completed registration does not authorize access to every area or permit badge sharing. Workplace Services confirms the access arrangement at reception. Do not promise entry when registration is incomplete, even if a welcome session is about to begin.
+
+3.3 CHANGED VISIT DATE
+If the joining date or office visit changes, ask the manager and Workplace Services to confirm whether registration must be updated. Do not assume a registration for one date remains valid for another date. People Operations must confirm changes to the official joining date separately.
+
+If a visit is cancelled, inform the manager and Workplace Services against the existing arrangement. This notification does not cancel an equipment request or business-travel booking; contact IT or Travel Operations separately when those plans are affected.
+
+3.4 EQUIPMENT COLLECTION
+Wait for IT's ready-for-collection confirmation and verify that Pune is the collection office. Then coordinate the visit and registration with the manager. Readiness confirmation does not bypass visitor registration. Registration confirmation does not guarantee the laptop, charger, and headset are available.
+
+If the employee is assigned to Bengaluru but collecting in Pune, follow the Pune entry process for the collection visit. Ask the manager whether travel needs a separate business-travel review; this guide does not establish that every equipment-collection trip is reimbursable.
+
+3.5 URGENT OR INCOMPLETE ARRANGEMENTS
+For next-day joining without registration confirmation, contact the manager and Workplace Services immediately through the approved route. Describe the joining or collection purpose and any existing reference. Do not advise simply arriving early to bypass the missing step or claim a guaranteed same-day resolution.
+
+3.6 VALID MOCK EXAMPLES
+- Pune arrival case WPL-PUN-2026-09031: first scheduled office day 22 September 2026, manager requested visitor registration on 19 September 2026, registration awaiting confirmation. Entry is not guaranteed until registration and identity verification are complete.
+- Pune equipment collection WPL-PUN-2026-09032: IT ready-for-collection confirmed for 23 September 2026, visitor registration missing. The valid next step is manager and Workplace Services coordination before travel.
+- If the visit date moves from 22 September to 24 September, ask whether registration must be updated. A previous-date registration should not be reused automatically.
+
+4. SUPPORT AND ESCALATION
+The manager arranges registration. Workplace Services verifies the entry process. IT Support confirms equipment readiness, and People Operations confirms joining changes.
+
+5. RELATED DOCUMENTS
+- Workplace and Remote-Work Guide
+- Bengaluru Office Arrival Guide
+- Equipment Delivery and Collection Guide
+- Domestic Business Travel Policy

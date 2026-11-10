@@ -1,0 +1,56 @@
+CROSS-TEAM ESCALATION AND HANDOVER GUIDE
+======================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: SUP-003
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Employee Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Describe a useful handover when a question spans teams, policies disagree, or required guidance is absent.
+
+2. SCOPE AND APPLICABILITY
+Employee services for permanent employees and interns associated with Bengaluru and Pune. A referral recommends contact with a team; it does not prove that the team has been notified or that an exception has been granted.
+
+3. POLICY GUIDANCE
+
+3.1 HANDOVER CONTENT
+Summarize the question, relevant employee context, affected task, steps already completed, remaining blocker, and existing request references. Identify the policy titles and sections that explain the issue. Include only necessary information and use approved channels for personal records.
+
+Separate what the employee reported from what an authorized record confirms. A statement that equipment was delivered can support a follow-up question about activation; it must not be converted into a claim that IT verified the device status.
+
+3.2 MULTIPLE OWNERS
+For travel during onboarding, the manager coordinates scheduling, People Operations handles orientation and intern approval, IT handles device readiness, and Travel Operations handles arrangements. Give each owner a specific unresolved question instead of asking every team to solve the whole case.
+
+For equipment collection, IT confirms readiness and Workplace Services confirms entry. For an inaccessible expense portal, IT handles technical access while Finance handles the claim. If no lead owner is clear, ask Employee Services to route the case.
+
+3.3 CONFLICTING GUIDANCE
+When two current documents give incompatible instructions for the same situation, identify both titles, versions, applicable sections, and instructions. Check that the employee situation falls within both scopes before describing a conflict.
+
+The Domestic Business Travel Policy requires completed-trip claims within 10 calendar days, while the Finance Expense Submission Guide specifies 15 calendar days for the same claims. Both are current and neither overrides the other. Finance Operations and Travel Operations must clarify the applicable instruction. Do not resolve it by retrieval order, document title, or whichever deadline appears safer.
+
+Different office arrival times are not a conflict when one applies to Bengaluru and the other to Pune. Different travel approvals for permanent employees and interns are also scope differences, not contradictory rules.
+
+3.4 MISSING GUIDANCE
+When a policy does not supply an amount, entitlement, or exception rule, state the gap and identify the owner. Ask People Operations about leave or compensation and Finance or Travel Operations about unspecified travel spending limits. Do not import an amount from a different employer or a general internet source.
+
+3.5 CLOSING THE LOOP
+After the employee receives owner guidance, confirm what changed and continue with the remaining step. Preserve unresolved questions. A referral alone does not mean the underlying policy conflict is resolved.
+
+3.6 VALID MOCK EXAMPLES
+- Handover case SUP-HND-2026-09011: first-week travel, equipment delayed, learning pending. Valid owner questions are manager for scheduling, IT for equipment options, People Operations for learning, and Travel Operations for booking.
+- Conflict case SUP-CNF-2026-09001: trip ended 18 September 2026 and claim submitted 30 September 2026. Cite TRV-001 section 3.4 and FIN-001 section 3.2; do not resolve by choosing one deadline.
+- Scope case SUP-SCP-2026-09002: Bengaluru default 9:30 AM and Pune default 10:00 AM are not a conflict because the actual visit location determines scope.
+
+4. SUPPORT AND ESCALATION
+Employee Services helps coordinate ownership. The named policy owners make the relevant decisions; an assistant cannot approve an exception or establish document precedence.
+
+5. RELATED DOCUMENTS
+- Employee Support Directory
+- Domestic Business Travel Policy
+- Finance Expense Submission Guide
+- Manager and Buddy Onboarding Handover Guide

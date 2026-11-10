@@ -1,0 +1,56 @@
+RECEIPTS AND MISSING EXPENSE EVIDENCE GUIDE
+=========================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: FIN-002
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Finance Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain how to prepare domestic business-travel expense evidence and request review when a receipt is incomplete or missing.
+
+2. SCOPE AND APPLICABILITY
+Domestic business-travel expense claims by permanent employees and interns in India. This guide does not establish reimbursable categories, spending ceilings, or approval of a particular purchase.
+
+3. POLICY GUIDANCE
+
+3.1 PREPARE THE EVIDENCE
+Retain the approved trip reference, business purpose, travel dates, expense dates, amounts, and itemized receipts. Permanent employees retain manager approval. Interns retain both manager and People Operations approvals. Submit the records through the internal expense portal.
+
+Check that the evidence can be associated with the claimed expense and trip. A booking quotation is not proof of payment, and a card transaction is not automatically a substitute for an itemized receipt. Finance decides whether the supplied evidence is sufficient.
+
+3.2 INCOMPLETE RECEIPT
+If a receipt is unreadable or lacks relevant details, ask the supplier for a clearer or corrected copy where possible. Preserve the original evidence and explain the issue through the expense portal. Do not edit amounts, invent item descriptions, or manufacture a supplier document.
+
+A general assistant can identify which policy applies but cannot certify the receipt as authentic or acceptable. Use a non-sensitive description when asking for guidance; avoid uploading receipt images containing personal information into general chat.
+
+3.3 MISSING RECEIPT
+Explain the missing evidence to Finance and request review through the portal. Provide the trip reference, expense description, date, amount, and reason the receipt is unavailable through that secure route. Ask Finance what alternative evidence, if any, it will consider.
+
+An employee's explanation, manager support, or bank transaction does not guarantee reimbursement. The collection specifies no automatic missing-receipt allowance and no threshold below which evidence can be omitted.
+
+3.4 MIXED OR SHARED EXPENSES
+If a receipt contains business and personal items, identify the business portion for Finance review. Do not assume the full receipt is claimable. If multiple employees share an expense, explain who paid and which portion is being claimed so Finance can check for duplicates.
+
+If another employee already claimed the same charge, do not submit it again as a separate full expense. Ask Finance how to correct or allocate the record. A combined receipt is not evidence that each employee paid the entire total.
+
+3.5 TIMING AND FOLLOW-UP
+Retain the acknowledgement and respond to requests for more evidence against the existing claim. An evidence request does not automatically extend a filing deadline or establish payment. The core travel and finance documents give different deadlines for completed domestic trips; seek clarification from both owners rather than resolving the conflict through this guide.
+
+3.6 VALID MOCK EXAMPLES
+- Evidence case FIN-EVD-2026-09041: meal receipt unreadable, card transaction available, amount INR 640, trip reference TRV-2026-09061. Valid guidance is to request missing-evidence review; the card transaction is not automatically sufficient.
+- Evidence case FIN-EVD-2026-09042: shared taxi receipt amount INR 1,200, employee claims INR 600, second employee identified in secure finance notes. Valid review checks allocation and duplicate risk.
+- Evidence case FIN-EVD-2026-09043: booking quote attached with no proof of payment. A quote is not valid payment evidence by itself.
+
+4. SUPPORT AND ESCALATION
+Finance Operations reviews evidence and missing-receipt cases. Travel Operations supplies booking records where available. The manager confirms business purpose but does not replace Finance review.
+
+5. RELATED DOCUMENTS
+- Finance Expense Submission Guide
+- Domestic Business Travel Policy
+- Expense Claim Status and Review Guide
+- Expense Corrections Refunds and Duplicate Claims Guide

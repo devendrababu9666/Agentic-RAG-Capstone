@@ -1,0 +1,123 @@
+[
+  {
+    "id": "TC01",
+    "name": "Basic policy retrieval",
+    "question": "What should I do if my laptop has not been delivered before my first day?",
+    "expected_outcome": "Provides relevant equipment and onboarding guidance grounded in the available policies and displays identifiable source documents.",
+    "requirement": "Policy retrieval and source attribution",
+    "status": "RUN"
+  },
+  {
+    "id": "TC02",
+    "name": "Clarification for missing context",
+    "question": "What equipment should I collect?",
+    "expected_outcome": "Requests clarification when necessary to determine applicable guidance, rather than making unsupported assumptions.",
+    "requirement": "Clarification handling",
+    "status": "RUN"
+  },
+  {
+    "id": "TC03",
+    "name": "Multi-topic request",
+    "question": "I am joining remotely and need to travel during my first week. What should I prepare?",
+    "expected_outcome": "Combines relevant onboarding, workplace, equipment and travel guidance where supported by retrieved policies.",
+    "requirement": "Multi-topic retrieval",
+    "status": "RUN"
+  },
+  {
+    "id": "TC04",
+    "name": "Contextual follow-up",
+    "setup_question": "What should I prepare before joining remotely?",
+    "question": "What if my laptop is delayed?",
+    "expected_outcome": "Uses the preceding conversation to interpret the follow-up and provides relevant policy guidance.",
+    "requirement": "Conversation history",
+    "status": "RUN"
+  },
+  {
+    "id": "TC05",
+    "name": "Missing policy information",
+    "question": "What is the exact internet reimbursement amount for remote employees?",
+    "expected_outcome": "Does not invent an amount, explains that the available policies do not establish it, and recommends appropriate human clarification.",
+    "requirement": "Evidence sufficiency and abstention",
+    "status": "RUN"
+  },
+  {
+    "id": "TC06",
+    "name": "Conflicting policies",
+    "question": "Two applicable policies give different instructions for my situation. Which one should I follow?",
+    "expected_outcome": "When genuinely conflicting policy evidence is retrieved, identifies the conflict and recommends human clarification without inventing policy precedence.",
+    "requirement": "Conflict handling",
+    "status": "RUN"
+  },
+  {
+    "id": "TC07",
+    "name": "Unsupported request or action",
+    "question": "Approve my laptop request and activate my employee account.",
+    "expected_outcome": "Explains that the assistant provides policy guidance only and cannot approve requests or activate accounts.",
+    "requirement": "Safety boundaries",
+    "status": "RUN"
+  },
+  {
+    "id": "TC08",
+    "name": "Source relevance",
+    "question": "What should I do if my laptop tracking says delivered but I did not receive it?",
+    "expected_outcome": "Provides relevant guidance and displays supporting sources that substantiate the answer.",
+    "requirement": "Grounded answers and citations",
+    "status": "RUN"
+  },
+  {
+    "id": "TC09",
+    "name": "Vector database persistence",
+    "question": "Verify the existing policy index after restarting the application.",
+    "expected_outcome": "Loads the existing local ChromaDB index without unnecessarily rebuilding the embeddings for every application run.",
+    "requirement": "Persistent vector storage",
+    "status": "RUN"
+  },
+  {
+    "id": "TC10",
+    "name": "Conversation clearing",
+    "question": "Start a new conversation after clearing the previous chat.",
+    "expected_outcome": "Clears the previous conversation from the application session so its history is not used to answer the new conversation.",
+    "requirement": "Conversation session management",
+    "status": "RUN"
+  },
+  {
+    "id": "TC11",
+    "name": "Explicit unsupported policy",
+    "question": "Does the company reimburse home furniture purchases?",
+    "expected_outcome": "Does not invent a reimbursement rule or amount. Explains the limits of the available evidence and recommends an appropriate support route.",
+    "requirement": "Unsupported policy handling",
+    "status": "RUN"
+  },
+  {
+    "id": "TC12",
+    "name": "Human escalation on missing evidence",
+    "question": "I need an authoritative decision that is not established by the available policies. Who should resolve it?",
+    "expected_outcome": "Clearly identifies the unresolved evidence gap and recommends human assistance without claiming to make the decision.",
+    "requirement": "Human escalation",
+    "status": "RUN"
+  },
+  {
+    "id": "TC13",
+    "name": "Conflict detection with contradictory evidence",
+    "question": "The two supplied policy passages give different deadlines for the same expense claim. Which deadline applies?",
+    "expected_outcome": "If both contradictory passages are retrieved, identifies the contradiction and recommends human clarification without inventing precedence.",
+    "requirement": "Policy conflict detection",
+    "status": "RUN"
+  },
+  {
+    "id": "TC14",
+    "name": "Configuration validation",
+    "question": "Validate required API configuration and RAG parameter constraints.",
+    "expected_outcome": "Missing API configuration and invalid chunk or retrieval settings produce clear configuration errors before processing a request.",
+    "requirement": "Configuration validation",
+    "status": "RUN"
+  },
+  {
+    "id": "TC15",
+    "name": "Index freshness after policy changes",
+    "question": "Modify a test policy document and check whether the index detects the change.",
+    "expected_outcome": "A changed policy fingerprint triggers reindexing; an unchanged fingerprint allows the existing index to be reused.",
+    "requirement": "Vector index freshness",
+    "status": "RUN"
+  }
+]

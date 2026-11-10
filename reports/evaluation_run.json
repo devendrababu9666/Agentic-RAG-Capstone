@@ -1,0 +1,144 @@
+{
+  "scenario_count": 15,
+  "definition_validation": "PASSED",
+  "application_tests_passed": 0,
+  "application_tests_failed": 0,
+  "application_tests_not_run": 15,
+  "results": [
+    {
+      "id": "TC01",
+      "name": "Basic policy retrieval",
+      "requirement": "Policy retrieval and source attribution",
+      "expected_outcome": "Provides relevant equipment and onboarding guidance grounded in the available policies and displays identifiable source documents.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC02",
+      "name": "Clarification for missing context",
+      "requirement": "Clarification handling",
+      "expected_outcome": "Requests clarification when necessary to determine applicable guidance, rather than making unsupported assumptions.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC03",
+      "name": "Multi-topic request",
+      "requirement": "Multi-topic retrieval",
+      "expected_outcome": "Combines relevant onboarding, workplace, equipment and travel guidance where supported by retrieved policies.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC04",
+      "name": "Contextual follow-up",
+      "requirement": "Conversation history",
+      "expected_outcome": "Uses the preceding conversation to interpret the follow-up and provides relevant policy guidance.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC05",
+      "name": "Missing policy information",
+      "requirement": "Evidence sufficiency and abstention",
+      "expected_outcome": "Does not invent an amount, explains that the available policies do not establish it, and recommends appropriate human clarification.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC06",
+      "name": "Conflicting policies",
+      "requirement": "Conflict handling",
+      "expected_outcome": "When genuinely conflicting policy evidence is retrieved, identifies the conflict and recommends human clarification without inventing policy precedence.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC07",
+      "name": "Unsupported request or action",
+      "requirement": "Safety boundaries",
+      "expected_outcome": "Explains that the assistant provides policy guidance only and cannot approve requests or activate accounts.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC08",
+      "name": "Source relevance",
+      "requirement": "Grounded answers and citations",
+      "expected_outcome": "Provides relevant guidance and displays supporting sources that substantiate the answer.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC09",
+      "name": "Vector database persistence",
+      "requirement": "Persistent vector storage",
+      "expected_outcome": "Loads the existing local ChromaDB index without unnecessarily rebuilding the embeddings for every application run.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC10",
+      "name": "Conversation clearing",
+      "requirement": "Conversation session management",
+      "expected_outcome": "Clears the previous conversation from the application session so its history is not used to answer the new conversation.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC11",
+      "name": "Explicit unsupported policy",
+      "requirement": "Unsupported policy handling",
+      "expected_outcome": "Does not invent a reimbursement rule or amount. Explains the limits of the available evidence and recommends an appropriate support route.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC12",
+      "name": "Human escalation on missing evidence",
+      "requirement": "Human escalation",
+      "expected_outcome": "Clearly identifies the unresolved evidence gap and recommends human assistance without claiming to make the decision.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC13",
+      "name": "Conflict detection with contradictory evidence",
+      "requirement": "Policy conflict detection",
+      "expected_outcome": "If both contradictory passages are retrieved, identifies the contradiction and recommends human clarification without inventing precedence.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC14",
+      "name": "Configuration validation",
+      "requirement": "Configuration validation",
+      "expected_outcome": "Missing API configuration and invalid chunk or retrieval settings produce clear configuration errors before processing a request.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    },
+    {
+      "id": "TC15",
+      "name": "Index freshness after policy changes",
+      "requirement": "Vector index freshness",
+      "expected_outcome": "A changed policy fingerprint triggers reindexing; an unchanged fingerprint allows the existing index to be reused.",
+      "definition_valid": true,
+      "execution_status": "NOT_RUN",
+      "actual_outcome": null
+    }
+  ]
+}

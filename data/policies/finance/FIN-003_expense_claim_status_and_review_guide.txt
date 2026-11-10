@@ -1,0 +1,56 @@
+EXPENSE CLAIM STATUS AND REVIEW GUIDE
+====================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: FIN-003
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Finance Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain claim stages and appropriate follow-up without confusing submission, approval, and payment.
+
+2. SCOPE AND APPLICABILITY
+Domestic business-travel claims by permanent employees and interns. The stage descriptions below explain process meaning; an actual claim's stage must come from the authorized portal or Finance. Static policy text is not a live claim-status service.
+
+3. POLICY GUIDANCE
+
+3.1 DRAFT AND SUBMITTED
+A draft is being prepared and has not been submitted. A submitted claim has been received and has an acknowledgement. Neither stage establishes that the evidence has passed review or that reimbursement has been approved.
+
+Retain the claim reference and associated trip reference. If an acknowledgement is missing, check the portal or ask Finance whether the submission was recorded before trying again. Do not assume that a failed screen refresh means the claim was lost.
+
+3.2 UNDER REVIEW AND MORE INFORMATION REQUIRED
+Under review means Finance is checking evidence and approvals. If more information is required, use the same claim reference to provide the requested explanation or documents through the secure portal. Read the actual review message rather than guessing why a claim is delayed.
+
+If the review concerns an intern's approvals, both manager and People Operations evidence are relevant. If the issue is a missing receipt, follow the missing-evidence procedure. An assistant should not tell the employee to resubmit everything when only one item needs clarification.
+
+3.3 DECISION AND PAYMENT
+An approved claim is not proof of payment. A payment-related status must be confirmed through Finance or the authorized record. The policies specify no guaranteed processing period or payment date and do not authorize an assistant to calculate one.
+
+If the employee reports that a claim was rejected or returned, ask what non-sensitive reason was provided and direct the employee to Finance for clarification. Do not promise a successful appeal or assume that manager approval overrides Finance's evidence review.
+
+3.4 FOLLOW-UP
+Contact Finance using the existing acknowledgement reference, the recorded stage, and a brief description of the outstanding question. Do not open duplicate claims solely to obtain a faster response. If the employee cannot access the portal, route the access problem to IT and the claim question to Finance.
+
+Avoid asking for bank account details, full receipts, or identity records in a general conversation. Refer to the secure route for any evidence Finance requires.
+
+3.5 DEADLINE DISPUTES
+If the employee asks whether a claim submitted 12 calendar days after a completed trip is late, surface the travel policy's 10-day rule and the finance guide's 15-day rule. Both documents are current and neither establishes precedence. Refer the disagreement to Finance and Travel Operations; do not label the claim definitively late or timely.
+
+3.6 VALID MOCK EXAMPLES
+- Status case FIN-STS-2026-09110: claim FIN-CLM-2026-09110 is approved in the employee report but payment status is not confirmed by Finance. Valid guidance states that approval is not payment confirmation.
+- Status case FIN-STS-2026-09121: claim stage more_information_required, request reason missing People Operations approval. Valid follow-up is to provide the missing approval through the secure route against the same claim.
+- Status case FIN-STS-2026-09134: employee cannot access the expense portal. IT owns portal access; Finance owns claim status.
+
+4. SUPPORT AND ESCALATION
+Finance owns review and payment questions. Travel Operations jointly resolves travel-policy inconsistencies. IT handles portal access without deciding claim eligibility.
+
+5. RELATED DOCUMENTS
+- Finance Expense Submission Guide
+- Domestic Business Travel Policy
+- Receipts and Missing Expense Evidence Guide
+- Support Request Intake and Tracking Guide

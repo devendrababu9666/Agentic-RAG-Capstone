@@ -1,0 +1,56 @@
+FIRST-WEEK LEARNING AND ORIENTATION GUIDE
+========================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: ONB-003
+Version: 1.0
+Effective from: 1 September 2026
+Owner: People Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Help new employees coordinate welcome sessions, mandatory learning, and team induction without confusing attendance with completion.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns assigned to Bengaluru or Pune, whether starting remotely or at an office. The joining invitation supplies the actual session schedule; this guide does not provide a universal meeting time or meeting link.
+
+3. POLICY GUIDANCE
+
+3.1 FIRST-DAY PREPARATION
+Locate the welcome-session invitation, confirm the reporting manager, and check the approved work arrangement. Remote employees use the session link supplied in the invitation. Office attendees follow their location's entry process. Office reporting times and welcome-session start times are different facts; do not substitute one for the other.
+
+If a link or invitation is missing, ask People Operations to confirm the session details. Never use another employee's account to attend or record completion. An equipment delivery acknowledgement does not establish that the employee can access the learning platform.
+
+3.2 COMMON FIRST-WEEK REQUIREMENTS
+Complete information-security awareness and the employee conduct acknowledgement within five working days of joining. Keep the platform completion confirmation or acknowledgement. Opening a module, downloading slides, or being sent a reminder does not by itself establish completion.
+
+Permanent employees attend the benefits introduction. Interns attend internship orientation instead. Attendance at either session does not establish an allowance, insurance entitlement, leave balance, or other benefit amount. Questions about those entitlements go to People Operations.
+
+3.3 ROLE-SPECIFIC LEARNING
+The reporting manager identifies role-specific training, required access, and its deadline. A general onboarding checklist does not authorize access to a project repository or customer system. Ask the manager to identify the business need and use the relevant access-request procedure.
+
+If the employee category or manager is unknown, resolve that context before choosing the category-specific orientation. Do not infer employment category from a job title or from the fact that the employee is joining a technical team.
+
+3.4 MISSED SESSIONS AND BLOCKED ACCESS
+Tell People Operations about a missed welcome or orientation session and request the next available option. Tell the manager if mandatory learning is blocked. IT Support handles account activation problems; People Operations handles learning enrolment and completion-record questions. Report the module name, issue, and existing request reference through approved channels.
+
+Business travel during the first week must be coordinated with the manager. Travel does not automatically waive mandatory learning or extend its deadline. Ask People Operations and the manager to confirm an appropriate arrangement rather than declaring an extension.
+
+3.5 FOLLOW-UP EXAMPLE
+An employee says security awareness is complete but the conduct acknowledgement is not. Confirm whether completion was recorded, then focus the next steps on the outstanding acknowledgement and any category-specific orientation. Do not restart completed work simply because a new conversation began.
+
+3.6 VALID MOCK EXAMPLES
+- Learning record LRN-2026-09-014-A: security awareness owner People Operations, due 18 September 2026 for a 14 September joining date, status owner_confirmed_complete on 16 September 2026.
+- Learning record LRN-2026-09-014-B: conduct acknowledgement owner People Operations, due 18 September 2026, status submitted by employee but not yet owner_confirmed_complete. The remaining action is to verify or complete this acknowledgement, not repeat security awareness.
+- Orientation record LRN-2026-09-021-C: intern orientation scheduled for 22 September 2026. This record does not establish benefits eligibility or travel approval.
+
+4. SUPPORT AND ESCALATION
+People Operations handles sessions and learning records. The manager handles role-specific training and scheduling conflicts. IT Support handles device and account barriers.
+
+5. RELATED DOCUMENTS
+- Employee Onboarding Guide
+- Manager and Buddy Onboarding Handover Guide
+- Domestic Business Travel Policy
+- Account Activation and Access Recovery Guide

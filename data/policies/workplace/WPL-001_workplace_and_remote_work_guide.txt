@@ -1,0 +1,69 @@
+WORKPLACE AND REMOTE-WORK GUIDE
+===============================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: WPL-001
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Workplace Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+This is fictional classroom guidance. An assigned office does not by itself establish whether an employee works remotely, in the office, or in a hybrid arrangement.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns assigned to Bengaluru or Pune.
+
+3. POLICY GUIDANCE
+
+3.1 CONFIRMING YOUR ARRANGEMENT
+- Follow the work arrangement confirmed in your joining communication or by your manager. If it is missing or unclear, ask the manager to confirm before planning office attendance or equipment delivery.
+- Changing an approved arrangement requires manager review. This guide does not grant a general entitlement to remote work.
+
+3.2 BENGALURU OFFICE ENTRY
+- New joiners should report to reception at 9:30 AM on their first scheduled office day unless their joining invitation gives a different time.
+- Bring the joining invitation and the identity document specified in the secure joining communication. Reception verifies entry and directs the employee to the induction room.
+- Workplace Services issues a temporary access pass if the permanent badge is not ready. Employees must not borrow another person's badge.
+
+3.3 PUNE OFFICE ENTRY
+- New joiners must ask their manager to arrange visitor registration by the previous working day.
+- Report to reception at 10:00 AM on the first scheduled office day unless the joining invitation gives a different time.
+- If visitor registration is missing, contact Workplace Services and the manager before travelling to the office. Entry is subject to registration and identity verification.
+
+3.4 REMOTE FIRST DAY
+- Use the welcome-session link in the joining invitation and keep the manager's team contact available.
+- Complete company work only on an approved device using the supplied setup instructions. For missing equipment or activation problems, follow the Equipment Request and Support Policy.
+- This guide does not specify an internet-reimbursement amount or promise reimbursement for home furniture.
+
+3.5 EQUIPMENT AND OFFICE VISITS
+- Employees collecting a laptop must wait for IT's ready-for-collection confirmation and comply with the entry process for the collection office.
+- If the assigned office or intended collection location is unknown, confirm the location before choosing an entry process.
+
+3.6 HELP
+- Workplace Services handles office entry and badges. IT Support handles devices and account setup. The reporting manager handles work-arrangement decisions.
+
+3.7 LOCATION AND PURPOSE CHECKS
+Before giving arrival instructions, establish the actual visit location and whether the visit is for joining, equipment collection, or another approved purpose. Assigned office and collection office need not be identical. Bengaluru and Pune have different entry procedures; those differences are not conflicting policies because the location scopes differ.
+
+For example, an employee assigned to Bengaluru but collecting a laptop in Pune needs IT readiness confirmation and Pune visitor registration. A Bengaluru joining invitation alone does not establish either requirement is complete.
+
+3.8 WORKSPACE AND ACCESSIBILITY QUESTIONS
+Ask Workplace Services about shared workspace arrangements and confidential adjustment requests. An assistant cannot reserve a desk or guarantee a particular adjustment. Coordinate device needs with IT and attendance changes with the manager. This guide supplies no live occupancy information, transport timetable, parking entitlement, or home-office allowance. Use the secure joining communication for the actual office address and arrival contact.
+
+3.9 VALID MOCK EXAMPLES
+- Workplace case WPL-VIS-2026-09114: employee assigned to Bengaluru, actual visit location Bengaluru, purpose first scheduled office day, invitation arrival time 11:00 AM. The invitation overrides the default 9:30 AM reception time.
+- Workplace case WPL-VIS-2026-09145: employee assigned to Bengaluru, actual visit location Pune, purpose equipment collection. The valid entry process is Pune visitor registration because the actual visit location is Pune.
+- Valid work arrangement values are office_first, remote_first, hybrid, and pending_confirmation. An assigned office must not be converted automatically into office_first.
+
+4. SUPPORT AND ESCALATION
+Contact Workplace Services for entry and badges, IT Support for equipment, and the reporting manager for work-arrangement decisions. Confirm the location before requesting location-specific guidance.
+
+5. RELATED DOCUMENTS
+- Bengaluru Office Arrival Guide
+- Pune Office Arrival Guide
+- Shared Workplace and Accessibility Guide
+- Employee Onboarding Guide
+- Equipment Request and Support Policy
+- Employee Support Directory

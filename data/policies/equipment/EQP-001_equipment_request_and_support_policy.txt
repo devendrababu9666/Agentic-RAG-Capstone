@@ -1,0 +1,69 @@
+EQUIPMENT REQUEST AND SUPPORT POLICY
+====================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: EQP-001
+Version: 1.0
+Effective from: 1 September 2026
+Owner: IT Support
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+This fictional classroom policy describes equipment requests. It does not authorize an assistant to order equipment or change access permissions.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns in Bengaluru and Pune.
+
+3. POLICY GUIDANCE
+
+3.1 STANDARD EQUIPMENT
+- The standard joining kit contains one company-managed laptop, its charger, and one headset. The laptop model depends on stock and role requirements; no specific model or delivery date is guaranteed.
+- Permanent employees and interns may request the standard kit after their joining record is confirmed.
+- Additional monitors and specialist accessories require the reporting manager's approval and an IT availability review. Approval must not be inferred from the employee asking for an item.
+
+3.2 REQUEST INFORMATION
+- Submit the request through the internal IT service portal. Include your employee or joining reference, joining date, assigned location, remote or office work arrangement, and reporting manager.
+- For approved remote delivery, enter the delivery address only in the IT service portal. Do not put a home address in a general-purpose assistant conversation.
+- Submit joining-kit requests at least five working days before joining where possible. This is a request lead time, not a delivery promise.
+
+3.3 COLLECTION AND DELIVERY
+- Office-based employees collect approved equipment from the IT desk at their assigned office after IT confirms it is ready. Follow local office-entry requirements.
+- Approved remote employees receive delivery instructions from IT Support after the request has been reviewed.
+- If the employee has already submitted a request, the next step is to check the acknowledgement and ask IT Support for the recorded status, rather than create a duplicate request.
+
+3.4 AFTER RECEIPT
+- Check that the kit is complete and report missing or damaged items to IT Support. Follow the supplied account activation and security setup instructions.
+- Do not install unapproved software or use a personal device for company work unless IT provides an explicit approved exception.
+
+3.5 MISSING EQUIPMENT OR URGENT JOINING
+- If equipment will not arrive before joining, inform the manager and IT Support. The manager can discuss the induction schedule while IT confirms available options.
+- This policy does not guarantee a temporary laptop or authorize personal-device use.
+
+3.6 RESTRICTED ACTIONS
+- Account unlocks, administrator privileges, software exceptions, and device replacement decisions require IT review. Never share passwords or one-time codes in a support conversation.
+
+3.7 REQUEST STAGES
+A draft is not submitted. An acknowledgement means the request was received, not that stock is allocated. Ready for collection requires IT confirmation. Dispatch does not prove receipt, and receipt does not prove account activation. Ask for the current known stage before recommending the next action; static policy documents cannot reveal a live request status.
+
+If the portal shows delivered but the employee has no kit, report the discrepancy against the existing reference. If the kit is complete but access is blocked, follow the activation process rather than treating the issue as a new equipment order.
+
+3.8 CHANGED ARRANGEMENTS
+For changes to delivery address, joining date, or collection office, update IT through the secure request route. Confirm whether fulfilment can still be changed. When collection moves between Bengaluru and Pune, use the entry process for the actual collection office. Do not assume that remote delivery approval also authorizes optional accessories or a particular laptop model.
+
+3.9 VALID MOCK EXAMPLES
+- Equipment request IT-EQP-2026-09102: joining reference JOIN-2026-09-014-BLR, standard kit requested on 9 September 2026 for a 14 September remote start, status acknowledged, requested items laptop, charger, headset. This is validly submitted but does not prove stock allocation or dispatch.
+- Equipment request IT-EQP-2026-09145: joining reference JOIN-2026-09-021-PUN, office collection requested for Pune, status draft_saved. A draft is not a request and should not be treated as ready for collection.
+- Valid equipment stages are draft_saved, acknowledged, under_it_review, ready_for_collection, dispatched, employee_reported_received, discrepancy_reported, and closed_by_it.
+
+4. SUPPORT AND ESCALATION
+Contact IT Support for request status, device issues, and access exceptions. Ask the reporting manager to review additional equipment needs. An assistant cannot approve or fulfil a request.
+
+5. RELATED DOCUMENTS
+- Equipment Delivery and Collection Guide
+- Account Activation and Access Recovery Guide
+- Device Faults Accessories and Returns Guide
+- Employee Onboarding Guide
+- Workplace and Remote-Work Guide
+- Employee Support Directory

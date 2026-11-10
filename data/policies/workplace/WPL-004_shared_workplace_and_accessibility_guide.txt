@@ -1,0 +1,56 @@
+SHARED WORKPLACE AND ACCESSIBILITY GUIDE
+=======================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: WPL-004
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Workplace Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain workspace coordination, changes between remote and office attendance, and confidential requests for workplace adjustments.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns assigned to Bengaluru or Pune. This guide provides request procedures; it does not guarantee a dedicated desk, parking space, specific adjustment, home-office reimbursement, or permission to change work arrangements.
+
+3. POLICY GUIDANCE
+
+3.1 WORK ARRANGEMENTS
+Use the arrangement confirmed by the manager or joining communication. An assigned office does not itself mean daily office attendance, and a home delivery of equipment does not create a permanent entitlement to remote work.
+
+Ask the manager to review a proposed change in remote, office, or hybrid attendance. After confirmation, ask Workplace Services about the relevant entry and workspace process. Notify IT if the change affects an open delivery or collection request. Each team must confirm its own arrangements.
+
+3.2 SHARED DESKS AND MEETING SPACES
+Ask Workplace Services which booking process applies to the planned visit. The collection does not provide a booking URL or live occupancy data. A conversation with an assistant cannot reserve a desk or meeting room.
+
+Use only the workspace confirmed through the applicable process. Follow the site's instructions for clearing shared desks and leaving equipment secure. Do not assume an unattended device is available for use. Report problems with a desk or room to Workplace Services, while reporting device or account issues to IT Support.
+
+3.3 WORKPLACE ADJUSTMENTS
+Contact Workplace Services through its confidential route to discuss an entry, seating, or workspace adjustment. Share functional requirements and ask what further information is needed. Avoid collecting medical details in a general assistant conversation or a shared team checklist.
+
+Workplace Services coordinates with People Operations where appropriate and with IT for device compatibility. The manager can help coordinate attendance and work impact without requiring private details in the team discussion. The available policies specify no guaranteed assessment deadline or automatic approval.
+
+3.4 REMOTE WORKSPACE QUESTIONS
+Use company-approved equipment and the setup instructions supplied by IT. Questions about a missing laptop or account activation belong with IT; questions about approved attendance belong with the manager. The collection does not specify internet reimbursements, furniture allowances, or home-office purchase limits.
+
+If an employee needs a monitor, use the additional-equipment review process. A recommendation for a more comfortable workspace is not authorization to buy equipment and claim reimbursement.
+
+3.5 FOLLOW-UP
+When an adjustment or workspace request is already submitted, retain its reference and ask the responsible team about the remaining decision. Do not create duplicate requests or mark a space as reserved based on a referral alone.
+
+3.6 VALID MOCK EXAMPLES
+- Workspace case WPL-WS-2026-09018: hybrid employee requests a shared desk for 18 September 2026. Valid status can be request_submitted or owner_confirmed_reserved; a general assistant response cannot create owner_confirmed_reserved.
+- Adjustment case WPL-ADJ-2026-09007: employee requests an adjusted desk arrangement and specialist input device. Workplace Services owns the confidential route, while IT reviews device compatibility. General chat should not collect medical documents.
+- Monitor request IT-ACC-2026-09012 linked to WPL-ADJ-2026-09007 remains subject to IT availability. The workplace reference does not prove accessory fulfilment.
+
+4. SUPPORT AND ESCALATION
+Workplace Services owns workspace coordination. People Operations supports confidential employee-service questions. IT owns technical equipment review, and the manager confirms work arrangements.
+
+5. RELATED DOCUMENTS
+- Workplace and Remote-Work Guide
+- Device Faults Accessories and Returns Guide
+- Employee Support Directory
+- Secure Support Communication Guide

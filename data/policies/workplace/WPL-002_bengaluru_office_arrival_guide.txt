@@ -1,0 +1,56 @@
+BENGALURU OFFICE ARRIVAL GUIDE
+=============================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: WPL-002
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Workplace Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain first-day reception, temporary passes, and equipment-collection visits at the Bengaluru office.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns attending the Bengaluru office as new joiners or for an approved onboarding visit. These entry instructions do not apply to Pune. This document does not establish a street address, parking entitlement, or shuttle timetable.
+
+3. POLICY GUIDANCE
+
+3.1 BEFORE THE VISIT
+Confirm that Bengaluru is the actual location for this visit and confirm the approved work arrangement. An employee assigned to Bengaluru may still have an approved remote start. A remote employee should not travel to the office solely because the assigned office is shown on a joining record.
+
+Locate the joining invitation and the identity-document instructions in the secure joining communication. If the physical address or arrival contact is missing, ask Workplace Services through the approved channel. Do not infer these details from a map listing or a different company's office.
+
+3.2 FIRST SCHEDULED OFFICE DAY
+Report to reception at 9:30 AM unless the joining invitation specifies a different time. Bring the joining invitation and the identity document specified in the secure communication. Reception verifies entry and directs the employee to the induction room.
+
+The reception time is not necessarily the welcome-session start time. If an invitation requests a different arrival time, follow that invitation. If the invitation is unclear, ask Workplace Services to confirm rather than choosing the Pune reporting time.
+
+3.3 BADGES AND DELAYED ARRIVAL
+Workplace Services issues a temporary access pass if the permanent badge is not ready. Follow the pass conditions supplied at reception. Do not borrow a colleague's badge or enter behind another person without verification.
+
+If delayed, notify the manager and Workplace Services through the established channel and ask for revised arrival instructions. A late arrival does not guarantee that the original induction session can be joined. People Operations confirms any replacement orientation arrangement.
+
+3.4 EQUIPMENT-COLLECTION VISITS
+An employee visiting only to collect a laptop must first receive IT's ready-for-collection confirmation. Confirm that collection is at Bengaluru, then ask Workplace Services about entry instructions for that visit. A general first-day invitation is not proof that equipment is ready.
+
+If IT changes the collection office to Pune, use the Pune visitor-registration process. Do not apply Bengaluru reception procedures to another location simply because Bengaluru remains the assigned office.
+
+3.5 ACCESS REQUIREMENTS
+Tell Workplace Services privately if an adjustment to the entry or workspace arrangement is needed. Ask what details and lead time are required; no universal adjustment fulfilment deadline is specified. Share only necessary information through the confidential route.
+
+3.6 VALID MOCK EXAMPLES
+- Bengaluru arrival case WPL-BLR-2026-09041: first scheduled office day 15 September 2026, joining invitation specifies 11:00 AM. The valid arrival time is 11:00 AM, not the default 9:30 AM.
+- Bengaluru equipment visit WPL-BLR-2026-09042: employee has IT ready-for-collection confirmation for Bengaluru but no permanent badge. Workplace Services may issue a temporary pass after verification; badge borrowing is invalid.
+- A Bengaluru guide answer is invalid when the employee later corrects the actual visit location to Pune. Re-evaluate with the corrected location.
+
+4. SUPPORT AND ESCALATION
+Workplace Services handles reception and badges. People Operations handles orientation invitations. IT Support confirms equipment readiness, and the manager coordinates attendance changes.
+
+5. RELATED DOCUMENTS
+- Workplace and Remote-Work Guide
+- Pune Office Arrival Guide
+- Equipment Delivery and Collection Guide
+- Shared Workplace and Accessibility Guide

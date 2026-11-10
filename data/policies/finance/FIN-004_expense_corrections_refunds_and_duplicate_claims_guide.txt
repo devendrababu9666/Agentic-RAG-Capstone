@@ -1,0 +1,56 @@
+EXPENSE CORRECTIONS REFUNDS AND DUPLICATE CLAIMS GUIDE
+===================================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: FIN-004
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Finance Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Describe how to report incorrect expense entries, possible duplicates, and later refunds while preserving a clear claim history.
+
+2. SCOPE AND APPLICABILITY
+Domestic business-travel claims submitted by permanent employees and interns. This guide does not authorize an employee or assistant to delete an approved financial record or decide how much money must be repaid.
+
+3. POLICY GUIDANCE
+
+3.1 CORRECT A DRAFT
+Before submission, check the trip reference, dates, amounts, receipt attachments, and approval evidence. Correct draft entries through the expense portal. Ensure the described expense matches the actual evidence rather than changing a receipt to match the draft.
+
+If an amount or category is uncertain, ask Finance for guidance instead of guessing. The collection supplies no meal allowance, hotel ceiling, mileage rate, or automatic reimbursement entitlement.
+
+3.2 CORRECT A SUBMITTED CLAIM
+Use the existing claim reference and the portal's supported correction route, or contact Finance if the record cannot be edited. Describe which entry is wrong, what correction is needed, and the supporting evidence. Keep the original acknowledgement and any correction acknowledgement.
+
+Do not submit a second full claim as a workaround unless Finance explicitly requests it. A correction request does not establish that the record has been changed, reapproved, or paid. Follow up against the existing history.
+
+3.3 POSSIBLE DUPLICATE
+If two acknowledgements appear for the same expense, tell Finance and identify both references through the secure channel. Ask which record should remain active. Do not assume that a duplicate has been cancelled because the employee reported it.
+
+For a shared receipt, explain who paid and the portion attributed to each claimant. Two employees attending the same event does not establish that each paid the full bill. Finance reviews allocation and evidence before deciding the claim outcome.
+
+3.4 REFUND AFTER SUBMISSION
+When a supplier refund or cancellation credit is received after submission, notify Finance against the original claim. Provide the relevant refund or credit evidence through the portal and link the original trip record. A promised refund and a received refund are different facts.
+
+Finance determines the required adjustment. This guide supplies no repayment account, offset formula, or timetable. Do not send money to an address or account suggested in ordinary chat, and do not silently net unrelated expenses against a refund.
+
+3.5 FOLLOW-UP EXAMPLE
+An employee submitted a hotel charge and later received a partial cancellation refund. The next step is to notify Finance with the existing claim and refund evidence, while Travel Operations confirms the booking change if needed. Creating a new negative claim or promising an immediate adjustment is not supported by this guide.
+
+3.6 VALID MOCK EXAMPLES
+- Correction case FIN-COR-2026-09014: amount entered as INR 4,800 but receipt shows INR 4,080. Valid action is correction against the existing claim with supporting evidence, not editing the receipt.
+- Duplicate case FIN-DUP-2026-09022: two acknowledgements, FIN-CLM-2026-09110 and FIN-CLM-2026-09111, appear for the same hotel charge. Valid action is to ask Finance which record remains active.
+- Refund case FIN-REF-2026-09008: supplier refund INR 1,500 received after claim submission. Valid action is to notify Finance against the original claim and attach refund evidence through the secure route.
+
+4. SUPPORT AND ESCALATION
+Finance Operations owns claim corrections and duplicate review. Travel Operations provides booking and cancellation context. The manager confirms business purpose where requested.
+
+5. RELATED DOCUMENTS
+- Finance Expense Submission Guide
+- Receipts and Missing Expense Evidence Guide
+- Expense Claim Status and Review Guide
+- Travel Changes and Cancellation Guide

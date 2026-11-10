@@ -1,0 +1,54 @@
+PREJOINING FORMS AND VERIFICATION GUIDE
+=====================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: ONB-002
+Version: 1.0
+Effective from: 1 September 2026
+Owner: People Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain how a new joiner prepares onboarding forms, resolves invitation problems, and follows up on verification. A submitted form is not evidence that a joining record has been verified.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns joining the Bengaluru or Pune office, including employees with an approved remote start. This guide does not define employment eligibility, compensation, or background-check decisions.
+
+3. POLICY GUIDANCE
+
+3.1 CHECK THE JOINING INVITATION
+Review the joining date, employee category, assigned office, reporting manager, and approved work arrangement. Ask People Operations to correct a missing or inconsistent field before using it in an equipment or travel request. An assigned office does not establish whether attendance is remote or in person.
+
+If the portal invitation has not arrived, check the joining communication and report the missing invitation to People Operations with the joining reference through the approved support channel. Do not create a second employee profile. People Operations must confirm the record and arrange another invitation if appropriate.
+
+3.2 COMPLETE THE FORMS
+Use the approved onboarding portal to enter the requested details and upload the documents specified in the secure invitation. Permanent employees and interns both complete joining forms and the confidentiality acknowledgement. Do not invent a document requirement when the invitation does not identify it; ask People Operations to confirm the required evidence.
+
+Save the submission acknowledgement. A saved draft has not been submitted. A submission acknowledgement confirms receipt, not verification or permission to start work. Identity documents, bank information, and home addresses must not be pasted into a general assistant conversation.
+
+3.3 CORRECTIONS AND VERIFICATION
+If a submitted field is wrong, use the correction option if available or contact People Operations against the existing reference. Describe the field needing correction without attaching identity evidence to ordinary chat. Do not create another joining record to fix the first one.
+
+When the portal requests more information, provide it through the designated secure route and retain the updated acknowledgement. Only People Operations can confirm whether verification is complete. The collection specifies no guaranteed verification turnaround time.
+
+3.4 CHANGED JOINING DATE
+A revised date requires confirmation from People Operations. Once confirmed, tell the manager and IT Support if equipment scheduling is affected. Ask Workplace Services about office-entry arrangements and Travel Operations about any approved trip affected by the change. A date correction does not automatically update those separate requests.
+
+3.5 EXAMPLE
+A remote intern has submitted forms but cannot find an equipment request option. Check whether the joining record is confirmed and whether the invitation names the correct work arrangement. People Operations handles the record; IT Support handles the equipment request after confirmation. Do not equate form submission with equipment approval.
+
+3.6 VALID MOCK EXAMPLES
+- Joining reference JOIN-2026-09-014-BLR: employee category permanent, assigned office Bengaluru, work arrangement hybrid, portal invitation sent on 8 September 2026, forms submitted on 9 September 2026, verification status awaiting_owner_review. This is a valid submitted record but not a verified record.
+- Joining reference JOIN-2026-09-021-PUN: employee category intern, assigned office Pune, work arrangement office_first, portal invitation missing as of 17 September 2026. The valid next owner is People Operations; creating a second employee profile is not valid.
+- Correction example: if the assigned office is entered as Bengaluru but the joining communication says Pune, keep the same joining reference and request a field correction. Do not create JOIN-2026-09-021-PUN-NEW.
+
+4. SUPPORT AND ESCALATION
+People Operations owns invitations, corrections, and verification questions. IT Support handles technical access issues after the account or portal route is confirmed. If ownership is unclear, Employee Services routes the issue.
+
+5. RELATED DOCUMENTS
+- Employee Onboarding Guide
+- Equipment Request and Support Policy
+- Account Activation and Access Recovery Guide
+- Employee Support Directory

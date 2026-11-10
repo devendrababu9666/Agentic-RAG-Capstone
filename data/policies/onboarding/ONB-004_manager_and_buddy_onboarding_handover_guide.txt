@@ -1,0 +1,53 @@
+MANAGER AND BUDDY ONBOARDING HANDOVER GUIDE
+=========================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: ONB-004
+Version: 1.0
+Effective from: 1 September 2026
+Owner: People Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Describe how a manager and an assigned onboarding buddy help a new employee track dependencies and remaining steps. Buddy support does not replace policy owners or approval authorities.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns joining teams associated with Bengaluru or Pune. A buddy may be assigned by the manager, but the collection does not guarantee that every employee has one.
+
+3. POLICY GUIDANCE
+
+3.1 RESPONSIBILITIES
+The manager confirms the work arrangement, team contact, role-specific learning, and business need for access or additional equipment. People Operations confirms joining records and orientation. IT Support reviews equipment and access requests. Workplace Services handles entry arrangements.
+
+A buddy may explain where to find the relevant portal, help identify the responsible team, and point out outstanding checklist items. A buddy cannot approve travel, certify completion, grant remote-work permission, lend an access badge, or share credentials.
+
+3.2 INITIAL HANDOVER
+The new employee and manager review joining date, assigned location, work arrangement, employee category, equipment readiness, and mandatory learning. Use only information needed to plan next steps. Do not copy identity documents, bank information, or private verification results into a team checklist.
+
+Record each item as not started, submitted, awaiting review, blocked, or complete according to available evidence. A request reference supports submitted status; it does not support approved status. If the employee reports completion, record it as employee-confirmed unless an authorized system record has also been checked.
+
+3.3 DEPENDENCIES
+Equipment receipt and account activation are separate tasks. A delivered laptop may still require activation, and an active account does not prove that a laptop is ready for collection. Likewise, a manager's approval for an intern's trip does not replace the additional People Operations approval required for travel.
+
+When first-week travel overlaps induction, the manager coordinates the schedule with People Operations. When equipment is delayed, the manager discusses the induction schedule while IT confirms options. Neither situation automatically permits work on an unapproved personal device.
+
+3.4 FOLLOW-UP AND HANDOVER CHANGES
+At a follow-up, review what changed since the previous interaction and continue from the outstanding step. If the reporting manager changes, ask People Operations to confirm the record and have the new manager review pending dependencies. Do not assume that existing travel or accessory approvals transfer without review by the responsible owner.
+
+If an item remains blocked, retain its existing reference and describe the current impact. Avoid parallel duplicate requests. A checklist may show that a referral was recommended; it must not say a team was contacted unless that contact actually occurred.
+
+3.5 VALID MOCK EXAMPLES
+- Handover checklist HND-2026-09-014: joining forms submitted, kit request IT-EQP-2026-09102 acknowledged, laptop received employee-confirmed, account activation blocked, security awareness complete, conduct acknowledgement pending. The valid next step is IT activation follow-up and manager scheduling review.
+- Handover checklist HND-2026-09-021: intern travel proposed, manager approval employee-reported, People Operations approval missing, equipment not requested. The buddy may help identify owners but cannot approve the trip or provide credentials.
+- Use owner_confirmed_complete only when a responsible team or authorized system has confirmed completion. A buddy note or chat summary should use employee_reported or manager_reported when appropriate.
+
+4. SUPPORT AND ESCALATION
+The manager coordinates team dependencies. People Operations resolves uncertainty about onboarding ownership. Employee Services helps route issues that span teams and have no clear lead owner.
+
+5. RELATED DOCUMENTS
+- Employee Onboarding Guide
+- First-Week Learning and Orientation Guide
+- Equipment Delivery and Collection Guide
+- Cross-Team Escalation and Handover Guide

@@ -1,0 +1,56 @@
+SUPPORT REQUEST INTAKE AND TRACKING GUIDE
+=======================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: SUP-002
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Employee Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Help employees describe a support issue, find its owner, and follow up on an existing request. This fictional collection contains no real portal endpoints or live ticket records.
+
+2. SCOPE AND APPLICABILITY
+Onboarding, equipment, workplace, domestic travel, and related expense questions for permanent employees and interns in Bengaluru and Pune.
+
+3. POLICY GUIDANCE
+
+3.1 IDENTIFY THE ISSUE
+Start with the employee's question, affected task, and desired next step. Ask only for context that changes the answer: for example employee category for travel approval, office location for entry, or whether an equipment request has already been submitted.
+
+Do not require a full employee profile to answer a general policy question. If the employee says 'I cannot get in,' clarify whether that means office entry, account activation, or an application before routing the issue.
+
+3.2 ROUTE TO THE OWNER
+People Operations handles joining records and orientation. IT Support handles devices, activation, and technical access. Workplace Services handles entry and workspace. Travel Operations handles domestic booking arrangements. Finance Operations handles expense evidence, claim review, and payment questions. The reporting manager confirms work arrangements and business needs.
+
+Use Employee Services when ownership remains unclear. A technical portal failure and the business decision inside that portal may need separate teams. IT can address access to the expense portal without deciding whether an expense is reimbursable.
+
+3.3 PREPARE A REQUEST
+Through the approved channel, include a concise issue summary, affected date or task, relevant existing reference, and a non-sensitive description of any error. State what has already been attempted or completed. Use the secure route for any personal evidence the owner requests.
+
+An assistant may help draft this summary but must not claim to submit it or create a ticket. No general support email address or telephone number is provided in the collection. Use the joining communication or established internal portal for actual contact details.
+
+3.4 TRACK AND FOLLOW UP
+Retain the acknowledgement and update the original request when more information becomes available. Submitted means received, not approved or resolved. A response asking for evidence means further action is required, not that the request has been rejected.
+
+Avoid duplicate requests for the same issue unless the owner instructs otherwise. If a case is marked resolved but the problem persists, use the available follow-up or reopening route and explain what remains blocked. Do not claim that a ticket has been reopened without confirmation.
+
+3.5 URGENCY
+Describe the concrete impact, such as joining tomorrow without activation or travelling with unconfirmed equipment. The collection specifies no response-time guarantee or universal priority label. The responsible team determines handling; calling an issue urgent does not bypass approvals.
+
+3.6 VALID MOCK EXAMPLES
+- Support ticket SUP-TKT-2026-09051: issue type account_activation, owner IT Support, existing reference IT-ACT-2026-09077, status submitted. This does not prove the account has been reset.
+- Support ticket SUP-TKT-2026-09052: issue type office_entry, owner Workplace Services, location Pune, visitor registration missing, status awaiting_owner_review. This should not be routed to Finance.
+- Support ticket SUP-TKT-2026-09053: issue type expense_portal_access plus claim_status. Split owner routing: IT for portal access, Finance for claim status.
+
+4. SUPPORT AND ESCALATION
+Use the relevant owner first. Employee Services routes unresolved ownership questions and helps identify the lead team for an issue spanning categories.
+
+5. RELATED DOCUMENTS
+- Employee Support Directory
+- Cross-Team Escalation and Handover Guide
+- Secure Support Communication Guide
+- Expense Claim Status and Review Guide

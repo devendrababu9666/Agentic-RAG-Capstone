@@ -1,0 +1,56 @@
+TRAVEL APPROVAL AND BOOKING GUIDE
+================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: TRV-002
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Travel Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain the information and approvals needed to move from a proposed domestic business trip to a reviewed booking request.
+
+2. SCOPE AND APPLICABILITY
+Domestic business travel within India for permanent employees and interns. Commuting, relocation, personal holidays, and international travel are outside this guide. A work-related conversation about a trip does not establish reimbursement eligibility.
+
+3. POLICY GUIDANCE
+
+3.1 CLASSIFY THE REQUEST
+Confirm employee category, business purpose, destination, travel dates, and project or cost reference with the manager. If a question only says 'travel to the office,' clarify whether it means ordinary commuting, relocation, or an assigned business trip before applying this procedure.
+
+For international travel, ask Travel Operations for separate guidance. Do not extend domestic approval rules or invent visa requirements from the supplied policies. For personal travel attached to a business trip, ask Travel Operations and Finance how to separate the arrangements and costs.
+
+3.2 APPROVALS
+Permanent employees need written manager approval before booking. Interns need written approval from both the manager and People Operations. Keep those approvals with the trip reference. An orientation invitation, meeting invitation, or verbal expression of interest is not a substitute for the required approval record.
+
+If employee category is unknown, ask for it before stating that one approval is sufficient. A buddy cannot approve a trip. A manager's approval does not by itself create a reservation or establish a hotel ceiling.
+
+3.3 BOOKING REQUEST
+After approvals, submit the travel request through the internal travel portal. Travel Operations confirms available booking options. Provide the necessary travel information through the secure portal rather than a general assistant conversation.
+
+Retain the request acknowledgement. Submitted, under review, options provided, and booked are different stages. Only authorized booking confirmation establishes the recorded booking. The collection supplies neither live transport availability nor guaranteed fares, ticket classes, or booking turnaround times.
+
+3.4 BEFORE DEPARTURE
+Check the confirmed itinerary, reporting arrangements, and approved company equipment. New joiners must coordinate mandatory onboarding sessions with the manager. If equipment is needed, ask IT to confirm readiness rather than treating a pending request as a ready device.
+
+Keep itemized receipts and the approved trip reference for any later expense review. Consult both the travel policy and finance guide for claim-deadline questions; this booking guide establishes no precedence between them.
+
+3.5 CHANGED PLANS
+If dates, destination, or purpose change, contact Travel Operations and confirm whether updated approvals are required before accepting new arrangements. Do not treat the original approval as unlimited authorization for a different trip.
+
+3.6 VALID MOCK EXAMPLES
+- Booking request TRV-BOOK-2026-09061: trip TRV-2026-09061, stage options_provided, no ticket issued. The valid answer is that Travel Operations has not yet confirmed a booking.
+- Booking request TRV-BOOK-2026-09077: intern trip with manager approval but no People Operations approval. The valid remaining approval is People Operations before booking.
+- Valid travel stages are proposed, manager_approved, people_operations_approved, submitted_to_travel, options_provided, booked, change_requested, cancelled_confirmed, and closed.
+
+4. SUPPORT AND ESCALATION
+The manager confirms business purpose and required manager approval. People Operations supplies the additional intern approval. Travel Operations handles options and booking, while Finance handles expense review.
+
+5. RELATED DOCUMENTS
+- Domestic Business Travel Policy
+- New-Joiner Business Travel Readiness Guide
+- Travel Changes and Cancellation Guide
+- Finance Expense Submission Guide

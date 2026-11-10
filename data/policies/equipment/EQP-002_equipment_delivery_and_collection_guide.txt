@@ -1,0 +1,53 @@
+EQUIPMENT DELIVERY AND COLLECTION GUIDE
+=======================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: EQP-002
+Version: 1.0
+Effective from: 1 September 2026
+Owner: IT Support
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain fulfilment steps after an equipment request and distinguish submission, readiness, dispatch, and receipt.
+
+2. SCOPE AND APPLICABILITY
+Standard joining kits for permanent employees and interns assigned to Bengaluru or Pune. Remote delivery applies only to an approved remote arrangement reviewed by IT Support. Stock, model, delivery date, and temporary-device availability are not guaranteed.
+
+3. POLICY GUIDANCE
+
+3.1 BEFORE FULFILMENT
+Confirm the joining record, joining date, assigned office, manager, and approved work arrangement. Submit joining-kit requests at least five working days before joining where possible. This lead time is not a delivery commitment. Use the existing request acknowledgement when asking for an update.
+
+The standard kit contains a company-managed laptop, charger, and headset. Additional monitors or specialist accessories need manager approval and IT availability review. Do not delay reporting a missing standard-kit item because an unrelated accessory request is pending.
+
+3.2 OFFICE COLLECTION
+Wait for IT's ready-for-collection confirmation before travelling to collect equipment. Confirm the collection office; it may need separate clarification from the assigned office. Follow the entry rules for the actual collection location. Pune requires manager-arranged visitor registration by the previous working day for new joiners; Bengaluru follows its reception verification process.
+
+Use the collection instructions and secure identity requirements supplied by the relevant teams. Another employee must not collect equipment on the new joiner's behalf unless IT explicitly confirms an authorized arrangement. A visitor-registration acknowledgement is not equipment readiness confirmation.
+
+3.3 REMOTE DELIVERY
+Provide the delivery address only in the internal IT service portal. IT reviews the approved remote arrangement and supplies delivery instructions. If an address changes after submission, update the existing request through the secure route and ask IT whether dispatch can still be changed. An address update does not guarantee redirection.
+
+If tracking says delivered but the employee has not received the kit, report the discrepancy against the original request. Do not mark onboarding equipment complete or submit a replacement order based solely on a tracking label.
+
+3.4 RECEIPT AND DISCREPANCIES
+Check the laptop, charger, and headset against the acknowledgement. Report missing items, visible damage, or a mismatch through the IT portal, using only the evidence requested there. Do not attempt repairs or send device-label photographs to general chat.
+
+If the kit arrives without activation instructions, follow the account-activation support process. If joining or travel is imminent and the kit is not ready, inform IT and the manager. The manager can review scheduling while IT confirms options; neither an assistant nor a courier update can promise a loan device.
+
+3.5 VALID MOCK EXAMPLES
+- Fulfilment reference IT-FUL-2026-09102: request IT-EQP-2026-09102, courier dispatch on 11 September 2026, employee_reported_received on 13 September 2026, discrepancy none reported. Account activation remains a separate status.
+- Collection reference IT-COL-2026-09145: request IT-EQP-2026-09145, collection office Pune, ready_for_collection not confirmed. Visitor registration alone is not enough for collection.
+- If a request changes from Bengaluru collection to Pune collection, retain the original request reference and add the changed collection office. Do not create a separate duplicate equipment request unless IT asks for it.
+
+4. SUPPORT AND ESCALATION
+IT Support owns fulfilment and discrepancies. Workplace Services owns entry, and the manager coordinates onboarding or travel impact. Keep these references linked when more than one team is involved.
+
+5. RELATED DOCUMENTS
+- Equipment Request and Support Policy
+- Workplace and Remote-Work Guide
+- Account Activation and Access Recovery Guide
+- New-Joiner Business Travel Readiness Guide

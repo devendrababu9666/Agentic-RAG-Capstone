@@ -1,0 +1,60 @@
+FINANCE EXPENSE SUBMISSION GUIDE
+================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: FIN-001
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Finance Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+This is fictional classroom material describing expense submission and review. Submitting a claim does not mean the expense is approved or that payment has occurred.
+
+2. SCOPE AND APPLICABILITY
+Domestic business-travel expense claims by permanent employees and interns in India.
+
+3. POLICY GUIDANCE
+
+3.1 REQUIRED CLAIM INFORMATION
+- Provide the approved trip reference, business purpose, travel dates, expense dates, amounts, and itemized receipts through the internal expense portal.
+- For an intern's trip, retain evidence of both manager and People Operations approval. For a permanent employee's trip, retain manager approval.
+- Do not share bank details or receipt images containing personal information in a general-purpose assistant conversation.
+
+3.2 CLAIM SUBMISSION DEADLINE
+- Submit a domestic business-travel expense claim within 15 calendar days after the trip ends. Late submissions require Finance review.
+
+3.3 MISSING RECEIPTS
+- If an itemized receipt is unavailable, explain the missing evidence to Finance through the expense portal and request review. Do not create a replacement receipt or assume that a card transaction alone will be accepted.
+
+3.4 REVIEW AND PAYMENT
+- Finance checks the evidence and approval record before deciding on reimbursement. This guide does not specify a guaranteed processing period, reimbursement amount, or payment date.
+- For an existing claim, use its acknowledgement reference when contacting Finance. Avoid duplicate submission unless Finance requests it.
+
+3.5 CONFLICTING GUIDANCE
+- If another current travel document specifies a different deadline for the same claim, seek confirmation from Finance Operations and Travel Operations. This guide does not declare that it overrides the Domestic Business Travel Policy.
+
+3.6 CLAIM STAGES AND FOLLOW-UP
+Distinguish a draft, submitted claim, evidence request, review decision, and payment confirmation. These stages do not establish one another. Ask Finance about the recorded stage using the existing acknowledgement. Static policy documents cannot verify whether an individual claim has been approved or paid.
+
+If the portal is inaccessible, IT handles the access problem while Finance handles the expense question. Do not create a second claim simply because the employee cannot see the first one. A missing acknowledgement should be checked before another submission is attempted.
+
+3.7 CORRECTIONS AND SHARED EXPENSES
+Correct draft errors before submission. For submitted errors, use the supported correction process or ask Finance with the existing reference. Explain shared expenses and who paid each portion so that Finance can check for duplicates. Report a later supplier refund against the original claim. An assistant cannot delete a financial record, calculate an authorized adjustment, or promise that a correction will be approved.
+
+3.8 VALID MOCK EXAMPLES
+- Claim FIN-CLM-2026-09110: trip TRV-2026-09061 ended 18 September 2026, claim submitted 30 September 2026, stage submitted. This is within 15 calendar days under FIN-001 but beyond 10 calendar days under TRV-001, so the conflict must be referred to both owners.
+- Claim FIN-CLM-2026-09121: intern trip TRV-2026-09077, manager approval attached, People Operations approval missing. Finance review should request the missing approval rather than mark the expense automatically reimbursable.
+- Valid finance stages are draft_saved, submitted, more_information_required, under_review, approved, rejected, payment_confirmed, correction_requested, and closed.
+
+4. SUPPORT AND ESCALATION
+Contact Finance Operations about missing evidence, late claims, and claim status. Ask Finance Operations and Travel Operations to resolve conflicting claim deadlines. Submission is not approval or payment.
+
+5. RELATED DOCUMENTS
+- Receipts and Missing Expense Evidence Guide
+- Expense Claim Status and Review Guide
+- Expense Corrections Refunds and Duplicate Claims Guide
+- Domestic Business Travel Policy
+- Employee Support Directory

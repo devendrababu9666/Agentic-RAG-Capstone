@@ -1,0 +1,58 @@
+NEW-JOINER BUSINESS TRAVEL READINESS GUIDE
+========================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: TRV-003
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Travel Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Help a new employee coordinate domestic business travel with equipment, access, and first-week onboarding obligations.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns assigned to Bengaluru or Pune with a proposed or approved domestic business trip during onboarding. This is a readiness guide, not an approval, booking confirmation, or waiver of mandatory learning.
+
+3. POLICY GUIDANCE
+
+3.1 ESTABLISH THE CONTEXT
+Confirm joining date, employee category, approved work arrangement, trip dates, destination, and business purpose. Ask what has already been approved or submitted. Separate information supplied by the employee from a status verified through an authorized record.
+
+If the employee is travelling merely to begin work at an assigned office, clarify whether the request concerns commuting or relocation. The domestic business-travel policy does not cover either category, and the collection supplies no relocation reimbursement entitlement.
+
+3.2 APPROVAL AND ONBOARDING CHECKS
+Permanent employees need written manager approval; interns need written manager and People Operations approvals before booking. A request to attend a first-week meeting does not replace these approvals.
+
+Ask the manager to coordinate travel with mandatory onboarding sessions. Security awareness and the conduct acknowledgement remain due within five working days of joining unless the responsible owners confirm another arrangement. This guide grants no automatic extension. People Operations confirms session alternatives; the manager confirms role-specific learning needs.
+
+3.3 EQUIPMENT AND ACCOUNT READINESS
+If the trip requires a laptop, check whether the kit is requested, ready for collection, dispatched, received, or blocked. These stages have different next steps. A submitted kit request does not guarantee delivery before departure.
+
+For office collection, confirm the actual location and follow its entry process. For remote delivery, use the secure IT portal for address information. After receipt, check account activation separately. Do not assume a delivered laptop has working project access.
+
+If equipment or access is blocked, tell IT and the manager what work is affected. Ask the manager to review the trip and induction schedule while IT confirms options. Personal-device use and a temporary laptop cannot be assumed.
+
+3.4 EXPENSE PREPARATION
+Retain the trip approval reference and itemized receipts. Ask Travel Operations or Finance about unspecified hotel or meal limits before relying on an amount. The supplied documents do not establish those amounts.
+
+For expense claim deadlines, the Domestic Business Travel Policy and Finance Expense Submission Guide disagree. Ask both owners to confirm the applicable instruction; readiness for travel does not resolve that disagreement.
+
+3.5 FOLLOW-UP EXAMPLE
+An intern now has a laptop and manager approval but lacks People Operations approval. The remaining steps include the additional travel approval and any unconfirmed activation or onboarding arrangements. Do not ask the intern to repeat a completed equipment request.
+
+3.6 VALID MOCK EXAMPLES
+- Readiness case TRV-RDY-2026-09077: intern has first-week travel proposed, laptop request draft_saved, activation not started, security awareness pending, People Operations travel approval missing. Valid guidance should coordinate owners instead of treating travel as bookable.
+- Readiness case TRV-RDY-2026-09061: permanent employee has manager approval and laptop received but learning portal access blocked. Valid next steps include IT access follow-up and manager/People Operations scheduling coordination.
+- A new joiner travelling to begin work at the assigned office may be commuting or relocation rather than business travel. Clarify before applying travel approval rules.
+
+4. SUPPORT AND ESCALATION
+The manager coordinates dependencies. Travel Operations handles travel arrangements, IT handles equipment and access, and People Operations handles orientation and intern approval.
+
+5. RELATED DOCUMENTS
+- Travel Approval and Booking Guide
+- First-Week Learning and Orientation Guide
+- Equipment Delivery and Collection Guide
+- Finance Expense Submission Guide

@@ -1,0 +1,15 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated local vector databasendata/vector_store/
+
+data/vector_store/

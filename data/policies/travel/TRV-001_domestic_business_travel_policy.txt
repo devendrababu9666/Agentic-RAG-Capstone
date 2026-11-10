@@ -1,0 +1,67 @@
+DOMESTIC BUSINESS TRAVEL POLICY
+===============================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: TRV-001
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Travel Operations
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+This fictional classroom policy covers company business travel. It does not cover personal holidays, commuting, relocation, or international travel.
+
+2. SCOPE AND APPLICABILITY
+Domestic business travel by permanent employees and interns in India.
+
+3. POLICY GUIDANCE
+
+3.1 BEFORE BOOKING
+- Confirm the business purpose, destination, travel dates, and project or cost reference with your manager.
+- Permanent employees need written manager approval before booking. Interns need written approval from both the manager and People Operations before booking.
+- After approvals, submit the travel request through the internal travel portal. Travel Operations confirms available booking options. A conversation with an assistant does not create a booking or approval.
+
+3.2 NEW JOINERS
+- If business travel is planned during the first week, ask the manager to coordinate it with mandatory onboarding sessions.
+- Employees still need the applicable travel approvals. An onboarding invitation is not travel approval.
+- If a company laptop is needed for the trip, confirm equipment availability with IT Support before assuming it will be ready.
+
+3.3 EXPENSES AND EVIDENCE
+- Keep itemized receipts and the approved trip reference for supported business expenses. Personal purchases and unsupported claims require Finance review and must not be presented as automatically reimbursable.
+- This policy does not provide hotel ceilings, meal allowances, mileage rates, or advance-payment amounts. Ask Travel Operations or Finance for guidance rather than assuming an amount.
+
+3.4 CLAIM SUBMISSION DEADLINE
+- Submit a domestic business-travel expense claim within 10 calendar days after the trip ends. If that deadline cannot be met, contact Finance for review.
+
+3.5 CHANGES AND CANCELLATIONS
+- Contact Travel Operations if approved dates or destination change. Confirm whether updated approval is required before accepting new arrangements.
+- If a trip is cancelled, retain the cancellation confirmation and contact Travel Operations about any charges. This document does not guarantee a refund.
+
+3.6 CONFLICTING GUIDANCE
+- If another current document gives a different instruction for the same expense claim, ask Travel Operations and Finance to confirm the applicable instruction. Do not choose a deadline solely because one document is retrieved first.
+
+3.7 REQUEST AND BOOKING STAGES
+Confirm whether the trip is proposed, approved, submitted for booking, or booked. A manager's meeting invitation does not prove travel approval. A travel-portal acknowledgement does not prove that a ticket has been issued. Only an authorized booking confirmation establishes the recorded arrangement. The supplied policies do not include live fares, availability, or traveller records.
+
+Before applying these rules to a request to travel to an office, clarify whether it is an assigned business trip, ordinary commuting, or relocation. Do not extend this policy to excluded categories merely because the destination is a company office.
+
+3.8 SUPPORTING RECORDS
+Keep approval and booking references associated with the trip. Retain itemized receipts and any subsequent change or cancellation evidence. If a refund is received after an expense claim was submitted, tell Finance against the existing claim. Booking approval does not establish reimbursement of every purchase, and a cancellation request does not guarantee a refund.
+
+3.9 VALID MOCK EXAMPLES
+- Travel request TRV-2026-09061: permanent employee NSL-P-24017, Bengaluru to Pune, business purpose onboarding workshop, trip dates 17-18 September 2026, manager approval recorded on 10 September 2026. Booking is not valid until Travel Operations confirms it.
+- Travel request TRV-2026-09077: intern NSL-I-24018, Pune to Bengaluru, business purpose project kickoff, trip date 24 September 2026, manager approval recorded, People Operations approval missing. The trip is not ready for booking under intern approval rules.
+- Expense timing example: a trip ending 18 September 2026 has a 10-calendar-day deadline of 28 September 2026 under this policy. FIN-001 gives 15 calendar days, so answers must surface the conflict.
+
+4. SUPPORT AND ESCALATION
+Contact Travel Operations for arrangements and changes. Ask Travel Operations and Finance Operations to resolve inconsistent expense guidance before relying on a deadline.
+
+5. RELATED DOCUMENTS
+- Travel Approval and Booking Guide
+- New-Joiner Business Travel Readiness Guide
+- Travel Changes and Cancellation Guide
+- Finance Expense Submission Guide
+- Employee Onboarding Guide
+- Employee Support Directory

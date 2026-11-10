@@ -1,0 +1,53 @@
+DEVICE FAULTS ACCESSORIES AND RETURNS GUIDE
+=========================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: EQP-004
+Version: 1.0
+Effective from: 1 September 2026
+Owner: IT Support
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Describe how to report equipment problems, request optional accessories, and return a device when IT instructs the employee to do so.
+
+2. SCOPE AND APPLICABILITY
+Company-managed equipment issued to permanent employees and interns in Bengaluru or Pune, including approved remote workers. This guide does not specify replacement eligibility, employee liability, repair prices, or an automatic accessory entitlement.
+
+3. POLICY GUIDANCE
+
+3.1 REPORT A FAULT
+Use the IT service portal to describe the affected item, symptoms, time first observed, work impact, and any existing request reference. Supply an asset reference only through the approved support channel. Use a non-sensitive summary when asking a general assistant for guidance.
+
+Distinguish a missing charger from a laptop that cannot start, an account activation error, or a request for a better model. These cases may need different handling. Follow only the troubleshooting steps supplied by authorized IT staff. Do not disassemble equipment, disable controls, or arrange an external repair without IT approval.
+
+3.2 DAMAGE OR LOSS
+Report loss or suspected theft promptly through the approved IT support route and notify the manager. IT determines the necessary security and equipment response. Do not claim that an account has been disabled or a device remotely wiped unless the authorized team confirms it.
+
+For visible damage on receipt, retain the delivery reference and provide evidence through the channel IT requests. The collection does not decide whether the employee must pay, whether insurance applies, or when replacement equipment will arrive.
+
+3.3 OPTIONAL ACCESSORIES
+The standard kit is a laptop, charger, and headset. A second monitor, specialist input device, or other accessory requires the manager's approval and IT availability review. Explain the work requirement in the request. Remote status or travel plans alone do not establish eligibility.
+
+If a workplace adjustment is needed, use the confidential Workplace Services process and involve IT for device compatibility. Do not put medical details into an ordinary accessory request or a general assistant chat. Approval of an adjustment does not mean a particular device is in stock.
+
+3.4 RETURN OR REPLACEMENT
+Wait for IT's instructions before shipping or handing over a device. For office handover, confirm the location and entry process. For remote return, use the secure collection instructions supplied by IT. Do not infer a shipping address from an office name.
+
+Keep the handover acknowledgement. Sending a device is not proof that IT has received it or issued a replacement. Ask IT about approved data-handling steps; do not independently erase the device or copy company data to personal storage.
+
+3.5 VALID MOCK EXAMPLES
+- Fault case IT-FLT-2026-09031: charger missing from standard kit for request IT-EQP-2026-09102, work impact moderate, reported on 14 September 2026. This is a standard-kit discrepancy, not an accessory approval request.
+- Accessory case IT-ACC-2026-09012: specialist input device requested with manager approval and Workplace Services adjustment reference WPL-ADJ-2026-09007. IT reviews compatibility and availability; approval of the adjustment does not guarantee a particular model.
+- Return case IT-RET-2026-09005: remote return initiated by IT, collection instructions pending. The employee should wait for secure return instructions and keep the handover acknowledgement.
+
+4. SUPPORT AND ESCALATION
+IT Support owns faults, returns, and replacement review. The manager coordinates work impact. Workplace Services handles access and confidential workplace-adjustment coordination.
+
+5. RELATED DOCUMENTS
+- Equipment Request and Support Policy
+- Equipment Delivery and Collection Guide
+- Shared Workplace and Accessibility Guide
+- Secure Support Communication Guide

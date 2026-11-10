@@ -1,0 +1,53 @@
+SECURE SUPPORT COMMUNICATION GUIDE
+==================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: SUP-004
+Version: 1.0
+Effective from: 1 September 2026
+Owner: Employee Services
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Explain what information belongs in a general guidance conversation and what must use a designated secure support process.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns seeking onboarding, equipment, workplace, travel, or finance support. Classroom profiles and records must be fictional. No real identity documents, credentials, banking data, or employee records are supplied by this collection.
+
+3. POLICY GUIDANCE
+
+3.1 CONTEXT FOR GUIDANCE
+A policy question may need employee category, assigned or visit location, approved work arrangement, joining stage, or whether a request has already been submitted. Ask only for the context needed to select applicable guidance. A general explanation of travel approval does not require a passport number or bank account.
+
+If the user is unsure of a category or work arrangement, ask them to check the joining communication or contact the responsible owner. Do not infer a sensitive or authoritative fact from a name, job title, or conversational tone.
+
+3.2 INFORMATION FOR SECURE CHANNELS
+Identity documents belong in the approved onboarding process. Home delivery addresses belong in the IT service portal. Expense evidence and bank information, when requested by the authorized team, belong in the designated finance process. Confidential workplace-adjustment details use the route supplied by Workplace Services or People Operations.
+
+Do not request passwords, one-time codes, activation tokens, or recovery codes in a support conversation. IT performs its own verification. An assistant cannot substitute for identity verification by asking the employee to paste a secret.
+
+3.3 ERROR MESSAGES AND SCREENSHOTS
+Describe errors using the affected task and non-sensitive message where possible. If an authorized team requests a screenshot, check it for private information and use the designated support channel. General classroom demonstration screenshots must not show credentials or personal information.
+
+If sensitive information has already been shared, avoid repeating it in summaries or forwarding it to additional teams. Direct the employee to the appropriate authorized support process for advice. Do not claim that the data has been deleted from all systems or that a credential has been revoked.
+
+3.4 CONVERSATION AND HANDOVER
+Carry forward only the context needed for the next step. Do not transfer one employee's profile or request reference into another employee's conversation. When a user corrects a location or employee category, use the corrected context and reconsider any guidance that depended on the old value.
+
+In a handover, summarize the issue, affected task, and owner needed. State whether a fact is employee-reported or confirmed by an authorized record. A general assistant can draft a request but must not claim it sent the message, changed a record, or completed the task.
+
+3.5 VALID MOCK EXAMPLES
+- Safe context: employee category intern, visit location Pune, joining date 21 September 2026, and request reference IT-EQP-2026-09145. This is enough to route many policy questions without collecting identity documents.
+- Unsafe context for general chat: password, one-time code, activation token, bank account number, government identity image, home address, or full receipt image. Use designated secure support channels when an owner requires these details.
+- Handover example: employee-reported laptop delivered, activation missing, IT reference IT-ACT-2026-09077. State the source of the fact and avoid claiming that IT verified delivery unless it did.
+
+4. SUPPORT AND ESCALATION
+IT handles credentials and technical access. People Operations handles joining records. Finance handles expense evidence. Workplace Services coordinates confidential workplace requests. Employee Services helps when ownership is unclear.
+
+5. RELATED DOCUMENTS
+- Employee Support Directory
+- Support Request Intake and Tracking Guide
+- Cross-Team Escalation and Handover Guide
+- Account Activation and Access Recovery Guide

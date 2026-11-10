@@ -1,0 +1,56 @@
+ACCOUNT ACTIVATION AND ACCESS RECOVERY GUIDE
+==========================================
+
+DOCUMENT INFORMATION
+Organization: Northstar Learning Services (fictional)
+Document ID: EQP-003
+Version: 1.0
+Effective from: 1 September 2026
+Owner: IT Support
+Status: Current
+Classification: Fictional classroom material
+
+1. PURPOSE
+Guide employees through activation problems and access requests while keeping verification and privileged actions with authorized support staff.
+
+2. SCOPE AND APPLICABILITY
+Permanent employees and interns assigned to Bengaluru or Pune using company-approved devices and accounts. This guide supplies support procedures, not passwords, reset links, administrator commands, or authorization to access a particular system.
+
+3. POLICY GUIDANCE
+
+3.1 INITIAL ACTIVATION
+Use the activation instructions supplied through the approved joining or IT communication. Confirm that the employee has received the company equipment and the activation communication separately. A laptop delivery does not prove account activation is complete.
+
+If instructions are missing, contact IT Support with the joining or employee reference through the approved route. If no working account exists, use the support route stated in the joining invitation or ask People Operations to coordinate with IT. Do not invent a public reset website or borrow another employee's login.
+
+3.2 EXPIRED OR FAILED ACTIVATION
+Report whether the activation invitation is missing, expired, or showing an error. Include a non-sensitive error description and when the attempt occurred. Never provide the activation token, password, recovery code, or one-time code in a general conversation. IT performs identity verification and decides whether a replacement invitation is appropriate.
+
+Avoid repeated speculative attempts or changing security settings to bypass a block. An assistant may describe the support route but cannot claim to have reset an account, verified identity, or removed a lock.
+
+3.3 ROLE ACCESS AND SOFTWARE
+Ask the manager to confirm the business need for project access or specialist software. Submit the access request through the IT process with the target system, role requirement, and relevant approval. A functioning email account does not authorize access to every team system.
+
+Administrator privileges, unapproved software, and security exceptions require IT review. Manager approval of a business need is not itself an administrator grant. Do not install unapproved software while waiting for review.
+
+3.4 ONBOARDING IMPACT
+If access problems block mandatory learning, tell the manager and People Operations as well as IT. Identify the affected learning item and existing IT reference. This notification does not automatically extend the five-working-day requirement for security awareness and conduct acknowledgement.
+
+If business travel is imminent, tell the manager which work activities are blocked and ask IT to confirm options. Do not move company work to a personal device unless IT provides an explicit approved exception.
+
+3.5 FOLLOW-UP
+When IT confirms activation, use the supplied instructions and verify the previously blocked task. If email works but the learning portal still fails, report the remaining specific issue against the existing reference rather than describing the whole device as unusable.
+
+3.6 VALID MOCK EXAMPLES
+- Activation case IT-ACT-2026-09077: employee NSL-P-24017 received laptop but activation email is missing. Valid routing is IT Support with joining reference JOIN-2026-09-014-BLR; the manager may adjust scheduling if learning is blocked.
+- Activation case IT-ACT-2026-09118: intern NSL-I-24018 reports expired activation invitation. Valid issue summary includes non-sensitive error text and time of attempt. It must not include password, one-time code, activation token, or recovery code.
+- Access request ACC-2026-09-033: email works, learning portal fails. Treat this as a specific application access issue, not a full device failure.
+
+4. SUPPORT AND ESCALATION
+IT Support owns activation and access recovery. People Operations coordinates joining-record or learning-enrolment issues. The manager confirms business needs and scheduling impact.
+
+5. RELATED DOCUMENTS
+- Equipment Request and Support Policy
+- Prejoining Forms and Verification Guide
+- First-Week Learning and Orientation Guide
+- Secure Support Communication Guide
