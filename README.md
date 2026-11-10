@@ -1,98 +1,405 @@
-﻿# PolicyPilot
+<div align="center">
+
+# 🏢 PolicyPilot
 ### Agentic RAG Employee Policy & Onboarding Navigator
 
-PolicyPilot is a local-first employee guidance prototype that uses Retrieval-Augmented Generation (RAG) and LangGraph to answer questions about fictional company policies.
+**An Intelligent AI-Powered Employee Assistant for Policy Discovery, Onboarding Guidance, and Evidence-Grounded Question Answering.**
 
-It helps employees navigate onboarding, equipment requests, finance and expenses, employee support, business travel, and workplace guidance. Responses are grounded in retrieved policy passages and include source information so users can review the supporting evidence.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-> **Important:** PolicyPilot uses fictional classroom policy data. It is a demonstration project, not an official employee-management system. It cannot approve requests, update employee records, verify live request statuses, or perform employee tasks.
+<p>
+<a href="https://github.com/devendrababu9666/Agentic-RAG-Capstone">
+<img src="https://img.shields.io/github/stars/devendrababu9666/Agentic-RAG-Capstone?style=social"/>
+</a>
+<a href="https://github.com/devendrababu9666/Agentic-RAG-Capstone/network/members">
+<img src="https://img.shields.io/github/forks/devendrababu9666/Agentic-RAG-Capstone?style=social"/>
+</a>
+<img src="https://img.shields.io/badge/Project-Agentic%20AI-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Capstone%20Project-success?style=flat-square"/>
+</p>
 
-## Contents
+</div>
 
-- [Features](#features)
-- [Architecture](#architecture)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation and Configuration](#installation-and-configuration)
-- [Build the Policy Index](#build-the-policy-index)
-- [Run the Application](#run-the-application)
-- [Run Tests](#run-tests)
-- [Evaluation](#evaluation)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [Security Notes](#security-notes)
+---
 
-## Features
+## 📌 Overview
 
-- **Policy question answering:** Retrieves relevant passages from the fictional policy collection.
-- **Agentic workflow:** Uses LangGraph to coordinate question analysis, clarification, retrieval, evidence assessment, and answer generation.
-- **Clarification handling:** Can request additional context when required to interpret a question.
-- **Multi-topic guidance:** Supports questions involving more than one policy category.
-- **Conversation context:** Uses recent conversation history to help interpret follow-up questions.
-- **Source transparency:** Displays policy sources and retrieved excerpts to support review of generated answers.
-- **Evidence assessment:** Evaluates whether retrieved evidence is sufficient and whether policy passages conflict.
-- **Human escalation:** Can recommend contacting the relevant support team when evidence is insufficient or conflicting.
-- **Local vector storage:** Uses ChromaDB to persist the policy index on the local machine.
-- **Interactive interface:** Provides a Streamlit chat interface for employee questions.
+**PolicyPilot** is an Agentic Retrieval-Augmented Generation (RAG) application designed to simplify employee access to organizational policies, onboarding documentation, and workplace guidance.
 
-## Architecture
+In traditional organizations, employees frequently need to search through multiple policy documents or contact HR teams to find answers about onboarding, workplace procedures, finance, travel, equipment, and employee support.
 
-PolicyPilot separates the user interface, workflow orchestration, retrieval logic, and shared application state.
+PolicyPilot addresses this challenge through an intelligent AI assistant that retrieves relevant policy information, evaluates supporting evidence, and generates context-aware responses.
 
-### Request lifecycle
+Unlike conventional single-pass RAG systems, PolicyPilot uses **LangGraph-based workflow orchestration** to coordinate multiple stages of question analysis, clarification, document retrieval, evidence assessment, and answer generation.
 
-1. **Analyze:** Interpret the employee's question, identify relevant topics, and determine whether essential context is missing.
-2. **Clarify:** Ask a follow-up question when required context is missing.
-3. **Retrieve:** Search the ChromaDB policy index for relevant passages.
-4. **Assess evidence:** Evaluate evidence sufficiency and possible policy conflicts.
-5. **Generate answer:** Produce policy-grounded guidance, expose sources, and communicate when human assistance is appropriate.
+The application emphasizes evidence-grounded responses, source transparency, and responsible handling of questions when sufficient policy information is unavailable.
 
-The graph can route directly to retrieval when clarification is unnecessary. The evidence assessment is an LLM-based judgment, not a formal guarantee of correctness.
+### 🎯 Project Objectives
 
-### Architecture components
+- Automate employee policy information retrieval.
+- Provide intelligent onboarding assistance.
+- Implement Agentic RAG using LangGraph.
+- Improve retrieval relevance through semantic search.
+- Evaluate whether retrieved evidence adequately supports an answer.
+- Handle ambiguous questions through clarification.
+- Reduce unsupported AI-generated responses.
+- Provide source-aware and transparent answers.
 
-- **Presentation layer:** Streamlit application in `app.py`.
-- **Workflow layer:** LangGraph nodes and routing in `employee_navigator/graph.py`.
-- **Retrieval layer:** Document loading, chunking, indexing, and semantic retrieval in `employee_navigator/rag.py`.
-- **Configuration:** Model names, index settings, paths, and validation in `employee_navigator/config.py`.
-- **Shared state:** Workflow state definitions in `employee_navigator/state.py`.
-- **Storage:** Fictional policy documents and a persistent ChromaDB index under `data/`.
-- **Evaluation:** Unit tests and test scenarios under `evaluation/`.
+---
 
-The workflow definition is documented in `workflow.mmd`. Open it with a Mermaid-compatible preview to inspect the graph.
+## ✨ Key Features
 
-## Technology Stack
+### 🧠 1. Agentic RAG Architecture
+
+Implements a graph-based AI workflow using LangGraph instead of relying on a simple retrieve-and-generate pipeline.
+
+- Structured workflow orchestration.
+- Conditional routing between processing stages.
+- Question analysis and context identification.
+- Intelligent clarification handling.
+- Evidence-aware answer generation.
+- Controlled workflow execution.
+
+### 📚 2. Intelligent Policy Retrieval
+
+Uses ChromaDB as a persistent vector database to retrieve relevant information from employee policy documents.
+
+Supported policy categories include:
+
+- Employee Onboarding
+- Equipment and Resources
+- Finance and Expenses
+- Employee Support
+- Business Travel
+- Workplace Policies
+
+### 🔍 3. Semantic Search and Context Retrieval
+
+Transforms policy documents into searchable vector representations.
+
+- Document loading and processing.
+- Text chunking.
+- Embedding generation.
+- Vector indexing.
+- Semantic similarity search.
+- Relevant context retrieval.
+
+### 🔄 4. Dynamic Question Clarification
+
+The workflow can identify when an employee's question lacks sufficient context.
+
+Instead of immediately generating an answer, the assistant can request additional information to improve the relevance of subsequent retrieval and responses.
+
+### 🛡️ 5. Evidence Assessment
+
+An important component of PolicyPilot is its evidence assessment mechanism.
+
+The application evaluates retrieved policy information before generating its final response.
+
+It considers:
+
+- Evidence sufficiency.
+- Relevant policy passages.
+- Potentially conflicting policy information.
+- Missing supporting information.
+- Whether human assistance is appropriate.
+
+### 📖 6. Source-Grounded Responses
+
+The assistant provides supporting policy information alongside generated answers.
+
+This improves transparency and allows employees to review the underlying policy evidence.
+
+### 💬 7. Conversational Context
+
+Maintains recent conversation history to support contextual follow-up questions.
+
+For example:
+
+- What is the equipment policy?
+- How do I request it?
+- How long does the process take?
+
+The assistant can use recent conversation context to interpret follow-up questions.
+
+### 🧪 8. RAG Evaluation Framework
+
+Includes a dedicated evaluation module to assess application behavior.
+
+- Policy retrieval scenarios.
+- Evidence assessment tests.
+- Clarification handling.
+- Multi-topic questions.
+- Missing information scenarios.
+- Conflicting evidence scenarios.
+- Source relevance.
+- Workflow validation.
+
+---
+
+## 🏗️ System Architecture
+
+PolicyPilot follows a modular architecture separating the presentation layer, agentic workflow, retrieval pipeline, vector storage, and evaluation components.
+
+```mermaid
+flowchart TD
+
+    A[Employee] --> B[Streamlit User Interface]
+
+    B --> C[Question Processing]
+
+    C --> D[LangGraph Agent Workflow]
+
+    D --> E[Question Analysis]
+
+    E --> F{Context Sufficient?}
+
+    F -->|No| G[Clarification]
+
+    G --> E
+
+    F -->|Yes| H[Policy Retrieval]
+
+    H --> I[ChromaDB Vector Store]
+
+    I --> J[Retrieved Policy Chunks]
+
+    J --> K[Evidence Assessment]
+
+    K --> L{Evidence Sufficient?}
+
+    L -->|No| M[Human Support Recommendation]
+
+    L -->|Yes| N[LLM Answer Generation]
+
+    N --> O[Source-Grounded Response]
+
+    M --> P[Streamlit Response]
+
+    O --> P
+```
+
+### Architecture Components
+
+| Component | Technology | Responsibility |
+|---|---|---|
+| Presentation Layer | Streamlit | Interactive employee assistant |
+| Agent Orchestration | LangGraph | Workflow execution and conditional routing |
+| AI Integration | LangChain | LLM and document-processing integration |
+| Language Model | OpenAI | Reasoning and response generation |
+| Embeddings | OpenAI Embeddings | Document and query vectorization |
+| Vector Database | ChromaDB | Persistent semantic retrieval |
+| Configuration | Python dotenv | Environment configuration |
+| Validation | Pydantic | Configuration and data validation |
+| Evaluation | Python unittest | Automated testing |
+
+---
+
+## 🔄 Agentic RAG Workflow
+
+The main differentiator of PolicyPilot is its multi-stage, graph-based workflow.
+
+Instead of executing a fixed RAG pipeline, the system coordinates different processing stages based on the employee's question and the available evidence.
+
+### Workflow Stages
+
+**Stage 1: Question Analysis**
+
+The system analyzes the employee's question to identify:
+
+- Main intent.
+- Relevant policy topics.
+- Required context.
+- Whether clarification is necessary.
+
+**Stage 2: Context Clarification**
+
+If important information is missing, the workflow can request additional details before continuing.
+
+**Stage 3: Policy Retrieval**
+
+The system retrieves relevant policy passages from the ChromaDB vector store using semantic similarity search.
+
+**Stage 4: Evidence Assessment**
+
+The retrieved information is evaluated to determine whether it adequately supports the intended response.
+
+The workflow also considers potentially conflicting information.
+
+**Stage 5: Answer Generation**
+
+The language model generates a response grounded in the retrieved policy information.
+
+**Stage 6: Source Transparency**
+
+Supporting policy sources and relevant excerpts are presented to the employee.
+
+When evidence is insufficient or conflicting, the assistant can recommend contacting the appropriate support team.
+
+---
+
+## 🔌 RAG Pipeline
+
+PolicyPilot implements a document ingestion and retrieval pipeline.
+
+```mermaid
+flowchart TD
+
+    A[Policy Documents] --> B[Document Loading]
+
+    B --> C[Text Processing]
+
+    C --> D[Text Chunking]
+
+    D --> E[OpenAI Embeddings]
+
+    E --> F[ChromaDB Vector Index]
+
+    G[Employee Question] --> H[Query Embedding]
+
+    H --> I[Semantic Similarity Search]
+
+    F --> I
+
+    I --> J[Relevant Policy Chunks]
+
+    J --> K[LangGraph Workflow]
+
+    K --> L[Evidence Assessment]
+
+    L --> M[Grounded Answer Generation]
+```
+
+### Document Indexing Process
+
+The `index_policies.py` module handles the policy indexing process.
+
+1. Load policy documents.
+2. Split documents into manageable chunks.
+3. Generate embeddings.
+4. Store vector representations in ChromaDB.
+5. Make policy information available for semantic retrieval.
+
+The vector index is persisted locally under:
+
+```text
+data/vector_store/
+```
+
+This avoids rebuilding the complete index for every employee question.
+
+---
+
+## 🧪 Evaluation and Testing
+
+PolicyPilot includes a dedicated evaluation framework under the `evaluation/` directory.
+
+The framework covers different aspects of Agentic RAG behavior.
+
+| Evaluation Area | Objective |
+|---|---|
+| Policy Retrieval | Verify relevant policy information is retrieved |
+| Clarification | Test handling of incomplete questions |
+| Multi-topic Queries | Evaluate questions involving multiple policy categories |
+| Conversational Context | Validate contextual follow-up questions |
+| Missing Evidence | Check behavior when policy information is unavailable |
+| Conflicting Evidence | Evaluate handling of potentially contradictory information |
+| Source Relevance | Examine whether supporting sources are relevant |
+| Workflow Validation | Test graph execution and conditional routing |
+
+### Automated Testing
+
+Run the unit tests:
+
+```bash
+python -m unittest discover -s evaluation -p "test_*.py" -v
+```
+
+### Evaluation Reports
+
+The repository includes evaluation artifacts:
+
+```text
+reports/
+├── evaluation_report.md
+└── evaluation_run.json
+```
+
+These files provide documentation and recorded evaluation information.
+
+**Development validation:** The existing project documentation records 11 passing unit tests, successful Python compilation, and successful development checks for retrieval and workflow execution. These are development results, not a guarantee that every evaluation scenario passes.
+
+---
+
+## 🛠️ Technology Stack
+
+### Programming and Application Development
 
 | Technology | Purpose |
 |---|---|
-| Python | Application and workflow implementation |
+| Python | Core application development |
 | Streamlit | Interactive web interface |
-| LangGraph | Workflow orchestration and conditional routing |
-| LangChain | Model integration and document-processing components |
-| OpenAI API | Language-model responses and text embeddings |
-| ChromaDB | Local persistent vector storage and semantic retrieval |
-| python-dotenv | Loading local environment configuration |
-| unittest | Automated unit tests |
+| Pydantic | Configuration and data validation |
+| python-dotenv | Environment variable management |
 
-## Project Structure
+### Generative AI and Agentic AI
+
+| Technology | Purpose |
+|---|---|
+| LangGraph | Stateful AI workflow orchestration |
+| LangChain | LLM and document-processing integration |
+| OpenAI API | Language model and embeddings |
+| Prompt Engineering | Context-aware AI interactions |
+
+### Retrieval-Augmented Generation
+
+| Technology | Purpose |
+|---|---|
+| ChromaDB | Vector database |
+| OpenAI Embeddings | Semantic document representation |
+| LangChain Text Splitters | Document chunking |
+| Semantic Search | Relevant policy retrieval |
+
+### Testing and Evaluation
+
+- Python unittest
+- Automated workflow testing
+- Evidence assessment testing
+- Retrieval evaluation scenarios
+
+---
+
+## 📂 Project Structure
 
 ```text
-PolicyPilot/
+Agentic-RAG-Capstone/
+│
 ├── app.py
+│
 ├── index_policies.py
+│
 ├── show_graph.py
-├── workflow.mmd
+│
 ├── requirements.txt
-├── README.md
-├── .env.example
+│
 ├── .gitignore
+│
+├── README.md
+│
 ├── employee_navigator/
 │   ├── __init__.py
 │   ├── config.py
 │   ├── state.py
 │   ├── rag.py
 │   └── graph.py
+│
 ├── data/
 │   ├── policies/
 │   │   ├── equipment/
@@ -101,225 +408,239 @@ PolicyPilot/
 │   │   ├── support/
 │   │   ├── travel/
 │   │   └── workplace/
+│   │
 │   └── vector_store/
+│
 ├── evaluation/
 │   ├── test_scenarios.json
 │   ├── test_graph_unit.py
 │   ├── test_evidence_assessment.py
 │   └── run_evaluation.py
+│
 ├── reports/
 │   ├── evaluation_report.md
 │   └── evaluation_run.json
+│
 └── Evidence_Screenshots/
 ```
 
-The `.venv/` directory contains the local Python environment and is intentionally excluded from the documented source tree. Generated cache files and local secrets should not be committed.
+---
 
-## Prerequisites
+## ⚙️ Installation and Setup
 
-- Windows with PowerShell, or another environment capable of running Python.
-- Python 3.11, matching the environment used during project testing.
-- An OpenAI API key with access to the configured chat and embedding models.
-- Internet access for OpenAI API requests.
-- Git, if you want to version-control the project.
+### Prerequisites
 
-## Installation and Configuration
+Make sure you have:
 
-Open PowerShell in the project root.
+- Python 3.11
+- pip
+- Git
+- OpenAI API key
+- Internet connectivity
 
-### 1. Create a virtual environment
+### 1. Clone the Repository
 
-If you do not already have one:
+```bash
+git clone https://github.com/devendrababu9666/Agentic-RAG-Capstone.git
 
-```powershell
+cd Agentic-RAG-Capstone
+```
+
+### 2. Create a Virtual Environment
+
+```bash
 python -m venv .venv
 ```
 
-Activate it:
+### 3. Activate the Environment
+
+**Windows PowerShell**
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
 ```
 
-### 2. Install dependencies
+**Linux / macOS**
 
-```powershell
+```bash
+source .venv/bin/activate
+```
+
+### 4. Install Dependencies
+
+```bash
 python -m pip install -r requirements.txt
 ```
 
-Check for dependency conflicts:
+Verify dependencies:
 
-```powershell
+```bash
 python -m pip check
 ```
 
-### 3. Configure environment variables
+### 5. Configure Environment Variables
 
-Create a local `.env` file from the example if one does not already exist:
+Create a `.env` file in the project root.
 
-```powershell
-if (-not (Test-Path .\.env)) {
-    Copy-Item .\.env.example .\.env
-}
+```env
+OPENAI_API_KEY=your_openai_api_key
+
+CHAT_MODEL=gpt-4.1
+
+EMBEDDING_MODEL=text-embedding-3-large
+
+CHUNK_SIZE=1000
+
+CHUNK_OVERLAP=150
+
+RETRIEVAL_K=8
+
+MAX_HISTORY_MESSAGES=10
 ```
 
-Open `.env` in your editor and configure your own API key and settings.
+These are the project's documented default settings. Update them according to your configuration.
 
-The configuration supports these variables:
+**Security:** Never upload your actual `.env` file or expose API keys in source code, screenshots, or logs.
 
-| Variable | Purpose |
-|---|---|
-| `OPENAI_API_KEY` | API authentication |
-| `CHAT_MODEL` | Chat and reasoning model |
-| `EMBEDDING_MODEL` | Text embedding model |
-| `CHUNK_SIZE` | Maximum policy chunk size |
-| `CHUNK_OVERLAP` | Overlap between adjacent chunks |
-| `RETRIEVAL_K` | Number of policy passages requested during retrieval |
-| `MAX_HISTORY_MESSAGES` | Maximum recent messages retained for context |
+### 6. Build the Policy Vector Index
 
-The current defaults in the application are `gpt-4.1` for chat, `text-embedding-3-large` for embeddings, a chunk size of `1000`, overlap of `150`, retrieval count of `8`, and history limit of `10`.
+Run:
 
-Never publish your real API key.
-
-## Build the Policy Index
-
-The fictional policy files are stored under `data/policies/`.
-
-To create or deliberately rebuild the vector index, run:
-
-```powershell
-python .\index_policies.py
+```bash
+python index_policies.py
 ```
 
-The indexing process loads the policy documents, splits them into chunks, generates embeddings, and stores the index in `data/vector_store/`.
+This process:
 
-Rebuilding can make embedding API requests and incur costs. Do not run the indexing script for every employee question. The application also checks whether the index needs rebuilding when loading it.
+- Loads policy documents.
+- Splits documents into chunks.
+- Generates embeddings.
+- Creates or updates the ChromaDB vector index.
 
-Keep the existing vector store if you want to reuse the current index.
+The indexing process can incur OpenAI API usage charges.
 
-## Run the Application
+### 7. Run the Application
 
-With the virtual environment activated, run:
+Start the Streamlit application:
 
-```powershell
-python -m streamlit run .\app.py
+```bash
+python -m streamlit run app.py
 ```
 
-Open the local URL printed in the terminal, usually:
+Open the local application:
 
 ```text
 http://localhost:8501
 ```
 
-Ask a question about the fictional policies and inspect the generated answer, evidence status, and supporting sources.
+---
 
-### Example questions
+## 📊 Example Employee Questions
 
-```text
-What equipment should I prepare before joining remotely?
-```
+The following questions demonstrate the intended employee policy assistance use cases.
 
-```text
-How do I check the status of an equipment request?
-```
+**Onboarding**
 
-```text
-How should I report a missing expense receipt?
-```
+- What equipment should I prepare before joining remotely?
+- What are the onboarding requirements?
 
-```text
-What should I do if my business travel booking changes?
-```
+**Equipment**
 
-```text
-How much will the company reimburse me for home internet?
-```
+- How do I check the status of an equipment request?
+- What is the process for requesting workplace equipment?
 
-The last question is useful for checking whether the assistant acknowledges a gap in the available policies rather than inventing a reimbursement amount.
+**Finance and Expenses**
 
-## Run Tests
+- How should I report a missing expense receipt?
+- What are the expense submission guidelines?
 
-Run the unit-test suite from the project root:
+**Business Travel**
 
-```powershell
-python -m unittest discover -s evaluation -p "test_*.py" -v
-```
+- What should I do if my business travel booking changes?
 
-Compile the application and evaluation modules:
+**Evidence Handling**
 
-```powershell
-python -m compileall -q .\app.py .\index_policies.py .\show_graph.py .\employee_navigator .\evaluation
-```
+- How much will the company reimburse me for home internet?
 
-A successful compilation command produces no syntax-error output.
-
-### Verified development checks
-
-During development, the following checks were observed:
-
-- **11 unit tests passed** across graph utilities, clarification routing, and evidence assessment.
-- Python syntax compilation completed successfully.
-- A similarity search retrieved relevant passages from the equipment policy.
-- The LangGraph workflow completed an equipment-guidance question and returned sources with a supported evidence status.
-- The Streamlit interface rendered a policy-grounded answer with source information.
-
-These are development checks, not proof that every evaluation scenario passes or that the system is error-free.
-
-## Evaluation
-
-Evaluation scenarios are defined in `evaluation/test_scenarios.json`. The unit tests are maintained separately in the same directory.
-
-The evaluation scenarios address behaviors such as:
-
-- Basic policy retrieval
-- Clarification when context is missing
-- Multi-topic questions
-- Contextual follow-up questions
-- Missing policy information
-- Contradictory evidence
-- Unsupported actions and human escalation
-- Source relevance
-- Index persistence and freshness
-- Configuration validation
-
-The evaluation runner and reports support further testing and documentation. Each scenario should be marked as passing only after its actual output has been checked against its expected behavior.
-
-Review `reports/evaluation_report.md` for the project's evaluation documentation.
-
-## Limitations
-
-- **Fictional data:** The policy collection is designed for demonstration and does not represent a real employer's official policies.
-- **Model judgment:** Evidence sufficiency, conflict detection, and generated answers depend partly on language-model behavior.
-- **Retrieval limitations:** Relevant policy passages may be missed, so a lack of retrieved evidence does not prove that a policy does not exist.
-- **No live employee systems:** The assistant cannot retrieve live request statuses or update employee records.
-- **No autonomous approvals:** It cannot approve equipment, expenses, travel, access permissions, or other employee requests.
-- **Human review:** Unresolved policy gaps and material conflicts should be referred to the appropriate support team.
-- **API dependency:** Configured OpenAI model calls require API access and may incur usage charges.
-- **Local persistence:** The vector index is stored locally; multi-user deployment, access control, and production-grade operational monitoring require additional engineering.
-
-## Future Improvements
-
-Potential next steps include:
-
-- Expand automated tests for missing evidence, contradictory passages, and unsupported actions.
-- Evaluate retrieval precision, source relevance, and answer faithfulness with a repeatable benchmark.
-- Add automated checks for policy freshness and source metadata integrity.
-- Improve user-facing citations and evidence explanations.
-- Add structured logging and clearer error reporting.
-- Introduce authentication and authorization before any real organizational deployment.
-- Add privacy controls, retention policies, and production deployment safeguards.
-- Evaluate model behavior against adversarial and ambiguous employee questions.
-
-These are proposed improvements, not claims that the functionality is already implemented.
-
-## Security Notes
-
-- Keep `.env` out of version control.
-- Use `.env.example` only as a template with placeholder values.
-- Do not expose API keys in screenshots, logs, source files, or reports.
-- Review `.gitignore` before committing the project.
-- Do not use the fictional policies as authoritative guidance for real employee decisions.
+The final question is particularly useful for evaluating whether the assistant acknowledges missing policy information rather than inventing an answer.
 
 ---
 
-**PolicyPilot** — an agentic RAG prototype for employee policy navigation and onboarding guidance.
+## 🛡️ Responsible AI and Limitations
+
+PolicyPilot is designed around evidence-grounded AI responses and responsible information retrieval.
+
+### Responsible AI Principles
+
+- **Groundedness:** Generate responses using retrieved policy evidence.
+- **Transparency:** Display supporting sources and excerpts.
+- **Evidence Awareness:** Consider whether available information is sufficient.
+- **Human Oversight:** Recommend human assistance for unresolved policy questions.
+- **Context Awareness:** Request clarification when necessary.
+- **Reliability:** Evaluate retrieval and workflow behavior through testing.
+
+### Current Limitations
+
+- The project uses fictional policy documents for demonstration.
+- Evidence assessment depends partly on language-model judgments.
+- Retrieval may not always identify every relevant policy passage.
+- The assistant does not connect to live employee-management systems.
+- It cannot approve expenses, equipment, or travel requests.
+- It does not update employee records.
+- Production deployment would require additional authentication, access controls, monitoring, and privacy safeguards.
+
+---
+
+## 🚀 Future Enhancements
+
+Potential improvements for expanding PolicyPilot:
+
+- [ ] Multi-agent collaboration for specialized HR domains.
+- [ ] Advanced query decomposition.
+- [ ] Hybrid search combining semantic and keyword retrieval.
+- [ ] Cross-encoder reranking.
+- [ ] Advanced RAG evaluation using RAGAS.
+- [ ] Automated hallucination and faithfulness evaluation.
+- [ ] Improved citation-level verification.
+- [ ] Human-in-the-loop review interface.
+- [ ] Enterprise document ingestion.
+- [ ] Role-based access control.
+- [ ] Conversation persistence across sessions.
+- [ ] Deployment using Docker and cloud infrastructure.
+- [ ] Advanced observability and performance monitoring.
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+### Devendra Babu Pesarlanka
+
+**AI/ML Engineer | Generative AI | Agentic AI | RAG Systems**
+
+Interested in developing intelligent AI applications using Large Language Models, Retrieval-Augmented Generation, AI agents, workflow orchestration, and modern software engineering technologies.
+
+<br/>
+
+<a href="https://github.com/devendrababu9666">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pesarlanka-devendrababu/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### PolicyPilot — Making Employee Knowledge Accessible Through AI.
+
+**From Policy Documents to Intelligent, Evidence-Grounded Answers.**
+
+⭐ If you find this project interesting, consider starring the repository!
+
+</div>
